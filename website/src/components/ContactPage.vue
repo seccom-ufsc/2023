@@ -25,7 +25,7 @@ export default {
       { icon: 'mdi-email', name: 'seccom.ufsc@gmail.com', link: 'mailto:seccom.ufsc@gmail.com' },
       { icon: 'mdi-github', name: 'seccom.ufsc@gmail.com', link: 'https://github.com/seccom-ufsc/' },
       { icon: 'mdi-discord', name: 'seccom.ufsc@gmail.com', link: 'https://discord.gg/zTmGqsh' },
-      { icon: 'mdi-telegram', name: 'seccom.ufsc@gmail.com', link: 'https://t.me/seccomufsc' },
+      { icon: 'mdi-send', name: 'seccom.ufsc@gmail.com', link: 'https://t.me/seccomufsc' },
       { icon: 'mdi-youtube', name: 'seccom.ufsc@gmail.com', link: 'https://www.youtube.com/channel/UCva2-CmrvppJlf8jSAK61vw' },
     ]
   }),
