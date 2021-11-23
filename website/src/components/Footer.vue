@@ -4,7 +4,7 @@
 
 <script>
 import Vue from 'vue'
-import PulsarRadio from './../js/PulsarRadio.js'
+import Fourier from './../js/Fourier'
 import p5 from 'p5'
 
 export default Vue.extend({
