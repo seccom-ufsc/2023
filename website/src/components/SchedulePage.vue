@@ -6,8 +6,8 @@
         v-model="value"
         ref="calendar"
         locale="pt-br"
-        start="2020-10-05"
-        end="2020-10-10"
+        start="2021-12-07"
+        end="2021-12-11"
         first-time="13:00"
         last-time="21:00"
         :interval-count="8"
@@ -51,63 +51,6 @@
     </v-sheet>
   </v-container>
 </template>
-
-<script>
-import events from './../config/events.json'
-
-export default {
-  name: 'SchedulePage',
-  data: () => ({
-    container: document.querySelector('#schedule-page'),
-    window: window,
-    type: 'week',
-    mode: 'column',
-    modes: ['stack', 'column'],
-    weekday: [1, 2, 3, 4, 5],
-    value: '',
-    events: [],
-    colors: ['#474793', '#4c4ca8', '#2e2e5e'],
-    selectedEvent: {},
-    selectedElement: null,
-    selectedOpen: false,
-  }),
-  methods: {
-    getEvents () {
-      events.forEach((event) => {
-        event.color = this.colors[this.rnd(0, this.colors.length - 1)]
-      })
-      this.events = events
-    },
-    showEvent ({ nativeEvent, event }) {
-      const open = () => {
-        this.selectedEvent = event
-        this.selectedElement = nativeEvent.target
-        setTimeout(() => {
-          this.selectedOpen = true
-        }, 10)
-      }
-
-      if (this.selectedOpen) {
-        this.selectedOpen = false
-        setTimeout(open, 10)
-      } else {
-        open()
-      }
-
-      nativeEvent.stopPropagation()
-    },
-    getEventColor (event) {
-      return event.color
-    },
-    rnd (a, b) {
-      return Math.floor((b - a + 1) * Math.random()) + a
-    },
-  },
-  mounted () {
-    this.container = document.querySelector('#schedule-page')
-  }
-}
-</script>
 
 <style lang="scss">
   .blue-text-must-click {
