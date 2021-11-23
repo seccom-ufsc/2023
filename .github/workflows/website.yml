@@ -18,17 +18,6 @@ jobs:
         working-directory: website
       - run: npm run build --if-present
         working-directory: website
-      - name: log untrusted output
-        run: |
-
-        # disable command workflow processing
-        echo "::stop-commands::`echo -n ${{ github.token }} | sha256sum | head -c 64`"
- 
-        # log untrusted output
-        echo "untrusted output"
- 
-        # enable workflow command processing
-        echo "::`echo -n ${{ github.token }} | sha256sum | head -c 64`::"
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.6.1
         with:
