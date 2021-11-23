@@ -52,6 +52,27 @@
   </v-container>
 </template>
 
+<script>
+
+export default {
+  name: 'SchedulePage',
+  data: () => ({
+    container: document.querySelector('#schedule-page'),
+    window: window,
+    type: 'week',
+    mode: 'column',
+    modes: ['stack', 'column'],
+    weekday: [1, 2, 3, 4, 5],
+    value: '',
+    events: [],
+    colors: ['#474793', '#4c4ca8', '#2e2e5e'],
+    selectedEvent: {},
+    selectedElement: null,
+    selectedOpen: false,
+  }),
+}
+</script>
+
 <style lang="scss">
   .blue-text-must-click {
     color: #474793;
