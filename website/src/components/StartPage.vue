@@ -7,9 +7,9 @@
       </v-row>
       <v-col class="d-flex flex-column justify-center">
         <v-row class="flex-grow-0 text-h5 roboto-mono">Semana Acadêmica da Computação e Sistemas</v-row>
-        <v-row class="flex-grow-0 text-h5 roboto-mono">De 7 a 11 de dezembro</v-row>
+        <v-row class="flex-grow-0 text-h5 roboto-mono">De 6 a 10 de dezembro</v-row>
         
-        <v-row class="flex-grow-0 roboto-mono my-8">A SECCOM é um evento acadêmico que visa incrementar a experiência universitária das graduações em Ciência da Computação e Sistemas de Informação, trazendo palestras e oficinas de conteúdos além dos vistos durante a graduação. Esta edição será online e ocorrerá nos dias 7 a 11 de dezembro, com seus eventos ocorrendo majoritariamente no período da tarde. Você pode assistir as transmissões ao vivo no <a href="https://www.youtube.com/channel/UCva2-CmrvppJlf8jSAK61vw">canal no Youtube da SECCOM</a></v-row>
+        <v-row class="flex-grow-0 roboto-mono my-8">A SECCOM é um evento acadêmico que visa incrementar a experiência universitária das graduações em Ciência da Computação e Sistemas de Informação, trazendo palestras e oficinas de conteúdos além dos vistos durante a graduação. Esta edição será online e ocorrerá nos dias 6 a 10 de dezembro, com seus eventos ocorrendo majoritariamente no período da tarde. Você pode assistir as transmissões ao vivo no <a href="https://www.youtube.com/channel/UCva2-CmrvppJlf8jSAK61vw">canal no Youtube da SECCOM</a></v-row>
         
         <v-row class="flex-grow-0 roboto-mono my-8">Com a pandemia, fica mais do que evidente a necessidade de investimento público em ciência e divulgação científica, seja para combater redes de desinformação quanto para propor soluções para as mais variadas questões humanas e tecnológicas. Nesse sentido, a edição 2021 da SECCOM se dará em torno da importância da Ciência como um todo, da Ciência da Computação, e do uso consciente/correto de dados para processamento.</v-row>
       </v-col>
