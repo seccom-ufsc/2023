@@ -6,8 +6,8 @@
         v-model="value"
         ref="calendar"
         locale="pt-br"
-        start="2021-12-07"
-        end="2021-12-11"
+        start="2021-12-06"
+        end="2021-12-10"
         first-time="13:00"
         last-time="21:00"
         :interval-count="8"
@@ -36,7 +36,7 @@
           <v-card-text>
             <span v-html="selectedEvent.details"></span>
           </v-card-text>
-          
+
           <v-card-actions>
             <v-btn
               text
@@ -53,6 +53,7 @@
 </template>
 
 <script>
+import events from './../config/events.json'
 
 export default {
   name: 'SchedulePage',
@@ -70,6 +71,41 @@ export default {
     selectedElement: null,
     selectedOpen: false,
   }),
+  methods: {
+    getEvents () {
+      events.forEach((event) => {
+        event.color = this.colors[this.rnd(0, this.colors.length - 1)]
+      })
+      this.events = events
+    },
+    showEvent ({ nativeEvent, event }) {
+      const open = () => {
+        this.selectedEvent = event
+        this.selectedElement = nativeEvent.target
+        setTimeout(() => {
+          this.selectedOpen = true
+        }, 10)
+      }
+
+      if (this.selectedOpen) {
+        this.selectedOpen = false
+        setTimeout(open, 10)
+      } else {
+        open()
+      }
+
+      nativeEvent.stopPropagation()
+    },
+    getEventColor (event) {
+      return event.color
+    },
+    rnd (a, b) {
+      return Math.floor((b - a + 1) * Math.random()) + a
+    },
+  },
+  mounted () {
+    this.container = document.querySelector('#schedule-page')
+  }
 }
 </script>
 
@@ -83,7 +119,7 @@ export default {
   }
 
   .v-window__prev, .v-window__next {
-    background: rgba(0, 0, 0, 0) !important;    
+    background: rgba(0, 0, 0, 0) !important;
   }
 
   div.v-event-timed {
