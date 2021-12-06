@@ -1,31 +1,65 @@
 [
-    { 
-        "name": "Caroline Silveira Bauer", 
-        "title": "Convidada para Roda de Conversa", 
-        "text": "",
-        "photo": "https://user-images.githubusercontent.com/11988816/144494076-a7b0b662-176c-4e65-b844-adf416f3730b.jpg",
-        "bio": "Caroline Silveira Bauer, Professora do Departamento de História da Universidade Federal do Rio Grande do Sul, e integrante do Laboratório de Estudos sobre os Usos Políticos do Passado. Pesquisadora da ditadura civil-militar brasileira e bolsista do CNPQ."
-    },
-    { 
-        "name": "Alexandre Augusto Giron", 
-        "title": "Criptografia Pós Quantica em Protocolos de Rede", 
-        "text": "",
-        "photo": "https://user-images.githubusercontent.com/11988816/144501450-023db83a-642a-4590-9778-a69e3c0d6c53.gif",
-        "bio": "Professor na Universidade Tecnológica Federal do Paraná (UTFPR), campus Toledo. Graduação em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (UNIOESTE), campus de Cascavel, e mestrado em Ciência da Computação pela Universidade Estadual de Maringá (UEM). Doutorado (em andamento) em Ciência da Computação na Universidade Federal de Santa Catarina (UFSC), cujo tema envolve os desafios da adoção da Criptografia Pós-Quântica em protocolos de rede"
-    },
-    { 
-        "name": "Jônata Tyska Carvalho", 
-        "title": "Checkin UFSC: Rastreamento de Covido", 
-        "text": "<Em breve>.",
-        "photo": "https://i.ibb.co/yqTqwpk/jtyska-Squared.png",
-        "bio": "Jônata Tyska Carvalho é doutor em Computação, com ênfase em robótica e inteligência artificial, pela Plymouth University, no Reino Unido. É professor e pesquisador na UFSC onde trabalha nas áreas de robótica e aprendizado de máquina. É também pesquisador associado ao Istituto di Scienze e Tecnologie Cognitive de Roma, instituto de pesquisa vinculado ao Consiglio Nazionale delle Ricerche (CNR) Italiano, colaborando em pesquisas na área de inteligência artificial."
-    },
-    { 
-        "name": "Mateus Grellert", 
-        "title": "Video Coding", 
-        "text": "<Em breve>", 
-        "photo": "https://i.ibb.co/7pg6nMh/image1.jpg",
-        "bio": "Mateus Grellert recebeu título de Doutor em Computação pela Universidade Federal do Rio Grande do Sul em 2018. Atualmente atua como Professor Adjunto na Universidade Federal de Santa Catarina (UFSC). Suas áreas de pesquisa são em Sistemas Embarcados e Aprendizado de Máquina, com ênfase em projeto digital para Aprendizado de Máquina e para Processamento de Vídeo e Imagem, bem como em Aprendizado de Máquina aplicado. Tem mais de 40 artigos científicos publicados em revistas e congressos."
-    }
-
+  {
+    "name": "Alexandre Augusto Giron",
+    "title": "Criptografia Pós Quantica em Protocolos de Rede",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/11988816/144501450-023db83a-642a-4590-9778-a69e3c0d6c53.gif",
+    "bio": "Professor na Universidade Tecnológica Federal do Paraná (UTFPR), campus Toledo. Graduação em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (UNIOESTE), campus de Cascavel, e mestrado em Ciência da Computação pela Universidade Estadual de Maringá (UEM). Doutorado (em andamento) em Ciência da Computação na Universidade Federal de Santa Catarina (UFSC), cujo tema envolve os desafios da adoção da Criptografia Pós-Quântica em protocolos de rede"
+  },
+  {
+    "name": "Andrey Santiago",
+    "title": "Convidado para Roda de Conversa",
+    "text": "",
+    "photo": "",
+    "bio": "Estudante de Cinema, ex-coordenador geral do DCE e 1º Vice-Presidente da UCE"
+  },
+  {
+    "name": "Caroline Silveira Bauer",
+    "title": "Convidada para Roda de Conversa",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/11988816/144494076-a7b0b662-176c-4e65-b844-adf416f3730b.jpg",
+    "bio": "Caroline Silveira Bauer, Professora do Departamento de História da Universidade Federal do Rio Grande do Sul, e integrante do Laboratório de Estudos sobre os Usos Políticos do Passado. Pesquisadora da ditadura civil-militar brasileira e bolsista do CNPQ."
+  },
+  {
+    "name": "Jônata Tyska Carvalho",
+    "title": "Checkin UFSC: Rastreamento de COVID-19",
+    "text": "<Em breve>.",
+    "photo": "https://i.ibb.co/yqTqwpk/jtyska-Squared.png",
+    "bio": "Jônata Tyska Carvalho é doutor em Computação, com ênfase em robótica e inteligência artificial, pela Plymouth University, no Reino Unido. É professor e pesquisador na UFSC onde trabalha nas áreas de robótica e aprendizado de máquina. É também pesquisador associado ao Istituto di Scienze e Tecnologie Cognitive de Roma, instituto de pesquisa vinculado ao Consiglio Nazionale delle Ricerche (CNR) Italiano, colaborando em pesquisas na área de inteligência artificial."
+  },
+  {
+    "name": "José Luis Almada Güntzel",
+    "title": "Convidado para Roda de Conversa",
+    "text": "",
+    "photo": "https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4782607T9",
+    "bio": "Professor Titular do Departamento de Informática e Estatística (INE), no Centro Tecnológico (CTC) da Universidade Federal de Santa Catarina (UFSC). É supervisor do Núcleo Interdepartamental de Microeletrônica (NIME) da UFSC, colíder do Grupo de Pesquisa em Automação do Projeto de Sistemas Computacionais Embarcados e membro do Laboratório de Computação Embarcada (ECL) da UFSC."
+  },
+  {
+    "name": "José Eduardo De Lucca",
+    "title": "Convidado para Roda de Conversa",
+    "text": "",
+    "photo": "https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4790322A6",
+    "bio": "Possui graduação em Ciências da Computação pela Universidade Federal de Santa Catarina (1987) e mestrado em Ciências da Computação pela Universidade Federal de Santa Catarina (1995). Atualmente é professor da Universidade Federal de Santa Catarina. Tem experiência na área de Ciência da Computação/Sistemas de Informação, atuando principalmente nos seguintes temas: software livre, aplicação social da informática, TI aplicada à educação, interação universidade-empresa, internacionalização de software e localização de software. Foi coordenador da pré-incubadora GeNESS, no depto de Informática e Estatística da UFSC de 2001 a 2019. Foi membro do Comitê de Inovação da Universidade Federal de Santa Catarina e foi membro do conselho editorial da revista Localisation Focus - The International Journal of Localisation. Tutor da empresa júnior do curso de Sistemas de Informação da UFSC."
+  },
+  {
+    "name": "Mateus Grellert",
+    "title": "Video Coding",
+    "text": "<Em breve>",
+    "photo": "https://i.ibb.co/7pg6nMh/image1.jpg",
+    "bio": "Mateus Grellert recebeu título de Doutor em Computação pela Universidade Federal do Rio Grande do Sul em 2018. Atualmente atua como Professor Adjunto na Universidade Federal de Santa Catarina (UFSC). Suas áreas de pesquisa são em Sistemas Embarcados e Aprendizado de Máquina, com ênfase em projeto digital para Aprendizado de Máquina e para Processamento de Vídeo e Imagem, bem como em Aprendizado de Máquina aplicado. Tem mais de 40 artigos científicos publicados em revistas e congressos."
+  },
+  {
+    "name": "Ranieri Schroeder Althoff",
+    "title": "Oficinas \"Python para Iniciantes\" e \"Python Numérico\"",
+    "text": "",
+    "photo": "https://i.ibb.co/tZPjvRr/photo-2021-12-06-10-11-15.jpg",
+    "bio": "Formado em Ciência da Computação pela UFSC em 2018, entusiasta de criptografia e sistemas eleitorais. Atualmente, é engenheiro na Klarna."
+  },
+  {
+    "name": "Tarcísio Eduardo Moreira Crocomo",
+    "title": "Oficinas de Git e \"Explorando o protocolo HTTP com Python\"",
+    "text": "",
+    "photo": "",
+    "bio": ""
+  }
 ]
