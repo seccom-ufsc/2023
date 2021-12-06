@@ -7,6 +7,26 @@
   </v-container>
 </template>
 
+<script>
+
+import SpeakerCard from './SpeakerCard'
+import speakers from './../config/speakers.json'
+
+export default {
+  name: 'SpeakersPage',
+  components: {
+    SpeakerCard
+  },
+  data: () => ({
+    container: document.querySelector('#speakers-page'),
+    speakers: speakers
+  }),
+  mounted () {
+    this.container = document.querySelector('#speakers-page')
+  }
+}
+</script>
+
 <style lang='scss'>
   .blue-text-must-click {
     color: #474793;
