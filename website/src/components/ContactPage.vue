@@ -20,13 +20,13 @@ export default {
   data: () => ({
     container: document.querySelector('#contact-page'),
     contacts: [
-      { icon: 'mdi-facebook', name: '@seccom-ufsc', link: 'https://www.facebook.com/seccom.ufsc' },
-      { icon: 'mdi-instagram', name: '@seccom-ufsc', link: 'https://www.instagram.com/seccom.ufsc/' },
-      { icon: 'mdi-email', name: 'seccom.ufsc@gmail.com', link: 'mailto:seccom.ufsc@gmail.com' },
-      { icon: 'mdi-github', name: 'seccom.ufsc@gmail.com', link: 'https://github.com/seccom-ufsc/' },
-      { icon: 'mdi-discord', name: 'seccom.ufsc@gmail.com', link: 'https://discord.gg/zTmGqsh' },
-      { icon: 'mdi-send', name: 'seccom.ufsc@gmail.com', link: 'https://t.me/seccomufsc' },
-      { icon: 'mdi-youtube', name: 'seccom.ufsc@gmail.com', link: 'https://www.youtube.com/channel/UCva2-CmrvppJlf8jSAK61vw' },
+      { icon: 'fa-brands fa-facebook', name: '@seccom-ufsc', link: 'https://www.facebook.com/seccom.ufsc' },
+      { icon: 'fa-brands fa-instagram', name: '@seccom-ufsc', link: 'https://www.instagram.com/seccom.ufsc/' },
+      { icon: 'fa-solid fa-envelope', name: 'seccom.ufsc@gmail.com', link: 'mailto:seccom.ufsc@gmail.com' },
+      { icon: 'fa-brands fa-github', name: 'seccom.ufsc@gmail.com', link: 'https://github.com/seccom-ufsc/' },
+      { icon: 'fa-brands fa-discord', name: 'seccom.ufsc@gmail.com', link: 'https://discord.gg/zTmGqsh' },
+      { icon: 'fa-brands fa-telegram', name: 'seccom.ufsc@gmail.com', link: 'https://t.me/seccomufsc' },
+      { icon: 'fa-brands fa-youtube', name: 'seccom.ufsc@gmail.com', link: 'https://www.youtube.com/channel/UCva2-CmrvppJlf8jSAK61vw' },
     ]
   }),
   mounted () {
