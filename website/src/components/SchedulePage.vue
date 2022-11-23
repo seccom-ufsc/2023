@@ -1,19 +1,19 @@
 <template>
   <v-container id="schedule-page">
     <div class="text-h2 my-15 text-center">Programação</div>
-    <v-row class="d-flex justify-center align-start">
+    <!-- <v-row class="d-flex justify-center align-start">
       <v-row class="flex-grow-0 text-h5 roboto-mono">Em breve...</v-row>
-    </v-row>
-    <!-- <v-sheet :max-width="window.innerWidth">
+    </v-row> -->
+    <v-sheet :max-width="window.innerWidth">
       <v-calendar
         v-model="value"
         ref="calendar"
         locale="pt-br"
-        start="2021-12-06"
-        end="2021-12-10"
-        first-time="13:00"
+        start="2022-11-29"
+        end="2022-12-02"
+        first-time="10:30"
         last-time="21:00"
-        :interval-count="8"
+        :interval-count="11"
         :interval-height="80"
         :weekdays="weekday"
         :type="type"
@@ -51,7 +51,7 @@
           </v-card-actions>
         </v-card>
       </v-menu>
-    </v-sheet> -->
+    </v-sheet>
   </v-container>
 </template>
 
@@ -66,7 +66,7 @@ export default {
     type: 'week',
     mode: 'column',
     modes: ['stack', 'column'],
-    weekday: [1, 2, 3, 4, 5],
+    weekday: [2, 3, 4, 5],
     value: '',
     events: [],
     colors: ['#474793', '#4c4ca8', '#2e2e5e'],
