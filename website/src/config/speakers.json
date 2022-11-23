@@ -1,72 +1,79 @@
 [
   {
-    "name": "Alexandre Augusto Giron",
-    "title": "Criptografia Pós Quantica em Protocolos de Rede",
+    "name": "Carlos Becker Westphall",
+    "title": "Apresentação Laboratório LGR",
     "text": "",
-    "photo": "https://user-images.githubusercontent.com/11988816/144501450-023db83a-642a-4590-9778-a69e3c0d6c53.gif",
-    "bio": "Professor na Universidade Tecnológica Federal do Paraná (UTFPR), campus Toledo. Graduação em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (UNIOESTE), campus de Cascavel, e mestrado em Ciência da Computação pela Universidade Estadual de Maringá (UEM). Doutorado (em andamento) em Ciência da Computação na Universidade Federal de Santa Catarina (UFSC), cujo tema envolve os desafios da adoção da Criptografia Pós-Quântica em protocolos de rede"
+    "photo": "https://user-images.githubusercontent.com/41487157/203612471-24016303-7905-42f0-b7a9-c490467a008a.jpg",
+    "bio": "Carlos Becker Westphall é Professor Titular da Universidade Federal de Santa Catarina desde 1993, atuando como líder do Grupo de Redes e Gerência, fundador e supervisor do Laboratório de Redes e Gerência. Doutor em Informática, na especialidade de \"Gerência de Redes e Serviços\" pela Université de Toulose (Paul Sabatier), na França em 1991. Mestre em Ciência da Computação em 1988 e Engenheiro Eletricista em 1985, ambos pela UFRGS. É autor e/ou co-autor de mais de 470 publicações. Recebeu em 2011 o \"Awarded IARIA Fellow\". É (e foi) Membro do Editorial Board de mais de uma dezena periódicos. Atua (e atuou) como membro do comitê de organização e/ou de programa de centenas de conferências. Tem experiência na área de Ciência da Computação e Telecomunicações, com ênfase em Administração e Gerência de Redes e Serviços, atuando principalmente nos seguintes temas: segurança, computação autonômica, computação em nuvem e Internet das Coisas. Fundou a conferência LANOMS (Latin American Network Operations and Management Symposium). Também prestou serviços: para IEEE atuando no CNOM (Committe on Network Operation and Management); para IFIP atuando no \"WG6.6 - Management of Networks and Distributed Systems\"; para Elsevier como editor do COMNET (Computer Networks Journal); para Springer como editor sênior do JNSM (Journal of Network and Systems Management) e para o IARIA (International Academy, Research, and Industry Association) como Latin America - IARIA Liaison Board Chair."
   },
   {
-    "name": "Andrey Santiago",
-    "title": "Convidado para Roda de Conversa",
+    "name": "Frank Augusto Siqueira",
+    "title": "Apresentação Laboratório LaPeSD",
     "text": "",
-    "photo": "",
-    "bio": "Estudante de Cinema, ex-coordenador geral do DCE e 1º Vice-Presidente da UCE"
+    "photo": "https://user-images.githubusercontent.com/41487157/203616558-db0278ef-f5d1-4c51-9f55-dfc55218ad8c.gif",
+    "bio": "Possui graduação (1993) e mestrado (1996) em Engenharia Elétrica pela Universidade Federal de Santa Catarina e doutorado em Ciência da Computação pelo Trinity College Dublin (1999). Desde 2002 é professor da Universidade Federal de Santa Catarina, ocupando atualmente a posição de professor titular. Foi coordenador do Programa de Pós-graduação em Ciência da Computação e do curso de graduação em Sistemas de Informação da UFSC. Foi também pesquisador associado da University of Sydney, Austrália (2000). Conduz pesquisas na área de Ciência da Computação, com ênfase em Sistemas Distribuídos, com enfoque nos seguintes temas: Web Services; Qualidade de Serviço; e Bancos de Dados Distribuídos."
   },
   {
-    "name": "Caroline Silveira Bauer",
-    "title": "Convidada para Roda de Conversa",
+    "name": "Jean Carlo Rossa Hauck",
+    "title": "Apresentação Laboratório GQS",
     "text": "",
-    "photo": "https://user-images.githubusercontent.com/11988816/144494076-a7b0b662-176c-4e65-b844-adf416f3730b.jpg",
-    "bio": "Caroline Silveira Bauer, Professora do Departamento de História da Universidade Federal do Rio Grande do Sul, e integrante do Laboratório de Estudos sobre os Usos Políticos do Passado. Pesquisadora da ditadura civil-militar brasileira e bolsista do CNPQ."
+    "photo": "https://user-images.githubusercontent.com/41487157/203618869-316c6203-00e7-41fe-a7a4-6ea5b68fce99.png",
+    "bio": "Jean Hauck é doutor em Engenharia do Conhecimento, com a área de pesquisa em Engenharia de Software, mestre em Ciência da Computação pela Universidade Federal de Santa Catarina (UFSC) e graduado em Ciência da Computação pela Universidade do Vale do Itajaí (UNIVALI). Adquiriu experiência prática na indústria trabalhando em empresas brasileiras de software, iniciando na área de suporte ao usuário, passando por DBA, programador, analista de sistemas, arquiteto de software, gerente de projetos e diretor de P&D. Liderou projetos de desenvolvimento de software para grandes clientes, como: Santander, Banco do Brasil, HSBC, Oi e muitos outros. Com essa experiência adquirida, prestou consultorias e ministrou treinamentos nas áreas de Modelagem e Arquitetura de Software e de Melhoria de Processos de Software para grandes empresas, como: Samsung, WEG, Softplan e diversas outras. Em paralelo à sua atuação na indústria, foi também professor de Engenharia de Software na Universidade do Sul de Santa Catarina (UNISUL) e na UNIVALI. Ministrou ainda diversas disciplinas em cursos de Pós-Graduação em Engenharia de Software na Unisul, Univali, Uniplac, Uniasselvi, Sociesc, Uniarp, Unidavi, Estácio e Esucri. Foi pesquisador visitante no Regulated Software Research Centre - Dundalk Institute of Technology - Irlanda. Atualmente é professor do Departamento de Informática e Estatística da Universidade Federal de Santa Catarina, pesquisador do Grupo de Qualidade de Software, membro da Iniciativa Computação na Escola e professor permanente do Programa de Pós-Graduação em Ciência da Computação (PPGCC)."
   },
   {
-    "name": "Cauê Baasch de Souza",
-    "title": "Aplicações CLI em Rust",
+    "name": "Mauro Roisenberg",
+    "title": "Apresentação Laboratório L3C",
     "text": "",
-    "photo": "https://i.ibb.co/k8QydfH/photo-2021-12-06-19-11-50.jpg",
-    "bio": "Graduando em Ciência da Computação na UFSC, co-fundador do Caravela HackerClub, Coordenador Geral do DCE Luís Travassos e militante da Juventude Comunista Avançando"
+    "photo": "https://user-images.githubusercontent.com/41487157/203615481-5fbfb009-0007-4418-beae-8f768c5b3c35.png",
+    "bio": "Mauro Roisenberg é Tecnólogo em Processamento de Dados e Engenheiro Mecânico pela UFRGS. Mestre em Computação pela UFRGS e Doutor em Engenharia Elétrica pela UFSC. Trabalhou como Engenheiro de Automação Industrial na Altus Sistemas de Informática e como Analista de Sistemas na Edisa Hewlett Packard do Brasil. Professor no Instituto de Informática da UFRGS e do Departamento de Informática da UFSC desde 1992. Atua como orientador de mestrado no PPGCC da UFSC desde 1998 e como orientador de doutorado desde 2013. Possui mais de 100 artigos completos publicados em congressos e periódicos internacionais. Suas atividades de ensino e pesquisa estão focadas na área da Inteligência Computacional com especial interesse nas Redes Neurais Artificiais, Lógica Fuzzy e Computação Evolucionária. Desde 2001 vem desenvolvendo projetos de pesquisa e desenvolvimento em conjunto com o CENPES - Centro de Pesquisa da Petrobrás. Estes projetos permitiram o desenvolvimento de pesquisas de ponta, onde avanços das técnicas da Inteligência Computacional e do Aprendizado de Máquina foram aplicadas em problemas desafiadores, tais como na área de exploração de prospectos petrolíferos, na modelagem, planejamento, otimização e análise de risco em operações de perfuração de poços, e na caracterização de reservatórios de petróleo."
   },
   {
-    "name": "Jônata Tyska Carvalho",
-    "title": "Checkin UFSC: Rastreamento de COVID-19",
-    "text": "<Em breve>.",
-    "photo": "https://i.ibb.co/yqTqwpk/jtyska-Squared.png",
-    "bio": "Jônata Tyska Carvalho é doutor em Computação, com ênfase em robótica e inteligência artificial, pela Plymouth University, no Reino Unido. É professor e pesquisador na UFSC onde trabalha nas áreas de robótica e aprendizado de máquina. É também pesquisador associado ao Istituto di Scienze e Tecnologie Cognitive de Roma, instituto de pesquisa vinculado ao Consiglio Nazionale delle Ricerche (CNR) Italiano, colaborando em pesquisas na área de inteligência artificial."
-  },
-  {
-    "name": "José Luis Almada Güntzel",
-    "title": "Convidado para Roda de Conversa",
+    "name": "Márcio Bastos Castro",
+    "title": "Apresentação Laboratório LaPeSD",
     "text": "",
-    "photo": "https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4782607T9",
-    "bio": "Professor Titular do Departamento de Informática e Estatística (INE), no Centro Tecnológico (CTC) da Universidade Federal de Santa Catarina (UFSC). É supervisor do Núcleo Interdepartamental de Microeletrônica (NIME) da UFSC, colíder do Grupo de Pesquisa em Automação do Projeto de Sistemas Computacionais Embarcados e membro do Laboratório de Computação Embarcada (ECL) da UFSC."
+    "photo": "https://user-images.githubusercontent.com/41487157/203616052-a8def8de-7469-47fa-b361-8384fdc6a964.gif",
+    "bio": "Professor do Departamento de Informática e Estatística (INE) e pesquisador do Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Universidade Federal de Santa Catarina (UFSC). Doutor em Ciência da Computação pela Université Grenoble Alpes (França). Bacharel e Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). Recebeu título de Láurea Acadêmica da PUCRS e prêmio de Aluno Destaque da Sociedade Brasileira de Computação (SBC) em 2006 devido ao destacado aproveitamento acadêmico em atividades de ensino, pesquisa e extensão durante a graduação. Conquistou o prêmio de melhor tese de doutorado do Concurso de Teses e Dissertações em Arquitetura de Computadores e Computação de Alto Desempenho (WSCAD-CTD) em 2013. Realizou pós-doutorado em 2013 no Institut National de Recherche en Informatique et en Automatique (INRIA), França. Posteriormente, realizou pós-doutorado no Grupo de Processamento Paralelo e Distribuído (GPPD) da Universidade Federal do Rio Grande do Sul (UFRGS). Coordenou e/ou participou da organização de eventos nacionais e internacionais, tais como IEEE International Parallel & Distributed Processing Symposium (IPDPS), IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD), Workshop em Desempenho de Sistemas Computacionais e de Comunicação (WPerformance) e Escola Regional de Alto Desempenho da Região Sul (ERAD/RS). Atua como revisor de diversos periódicos da área de Computação Paralela e Distribuída, tais como IEEE Transactions on Parallel and Distributed Computing (TPDS), Parallel Computing (PARCO), Concurrency and Computation: Practice and Experience (CCPE), Journal of Parallel and Distributed Computing (JPDC), International Journal of Parallel Programming (IJPP) e Cluster Computing (CLUSTER). É membro do conselho editorial do periódico International Journal of Grid and Utility Computing (IJGUC). Realiza pesquisa em temas relacionados à área de Processamento Paralelo e Distribuído, tais como computação de alto desempenho, modelos de programação paralela e distribuída, arquiteturas multicore e manycore, aplicações científicas paralelas, escalonamento em arquiteturas paralelas e sistemas operacionais para processadores manycore e computação em nuvem. Atualmente é membro da Comissão Executiva da Comissão Regional de Alto Desempenho da Região Sul (CRAD/RS)."
   },
   {
-    "name": "José Eduardo De Lucca",
-    "title": "Convidado para Roda de Conversa",
+    "name": "Odorico Machado Mendizabal",
+    "title": "Apresentação Laboratório LaPeSD",
     "text": "",
-    "photo": "https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4790322A6",
-    "bio": "Professor do Depto de Informática e Estatística da Universidade Federal de Santa Catarina. Atua principalmente em temas de TI aplicada e dos impactos da TI na sociedade. É tutor da empresa júnior do curso de Sistemas de Informação da UFSC."
+    "photo": "https://user-images.githubusercontent.com/41487157/203617218-c7cbbd35-4932-44f6-9828-d5c6d3e5af07.gif",
+    "bio": "Professor adjunto na Universidade Federal de Santa Catarina - UFSC, possui graduação em Engenharia de Computação pela Fundação Universidade Federal do Rio Grande (2003), mestrado (2005) e doutorado (2016) em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas Distribuídos e Tolerância a Falhas, atuando principalmente nos seguintes temas: replicação, recuperação, verificação de modelos e teste de desempenho de software."
   },
   {
-    "name": "Mateus Grellert",
-    "title": "Video Coding",
-    "text": "<Em breve>",
-    "photo": "https://i.ibb.co/7pg6nMh/image1.jpg",
-    "bio": "Mateus Grellert recebeu título de Doutor em Computação pela Universidade Federal do Rio Grande do Sul em 2018. Atualmente atua como Professor Adjunto na Universidade Federal de Santa Catarina (UFSC). Suas áreas de pesquisa são em Sistemas Embarcados e Aprendizado de Máquina, com ênfase em projeto digital para Aprendizado de Máquina e para Processamento de Vídeo e Imagem, bem como em Aprendizado de Máquina aplicado. Tem mais de 40 artigos científicos publicados em revistas e congressos."
-  },
-  {
-    "name": "Ranieri Schroeder Althoff",
-    "title": "Oficinas \"Python para Iniciantes\" e \"Python Numérico\"",
+    "name": "Patricia Della Méa Plentz",
+    "title": "Apresentação Laboratório LaPeSD",
     "text": "",
-    "photo": "https://i.ibb.co/tZPjvRr/photo-2021-12-06-10-11-15.jpg",
-    "bio": "Formado em Ciência da Computação pela UFSC em 2018, entusiasta de criptografia e sistemas eleitorais. Atualmente, é engenheiro na Klarna."
+    "photo": "https://user-images.githubusercontent.com/41487157/203616925-afdd0bcf-e06c-444c-9d05-05c08f315e10.gif",
+    "bio": "Possui graduação em Ciência da Computação pela Universidade de Cruz Alta (1999), mestrado em Ciências da Computação (2001) e doutorado em Engenharia Elétrica (2008) ambos pela Universidade Federal de Santa Catarina (UFSC). Realizou pós-doutorado na University of Oulu (Finlândia). Atualmente é professora associada do Departamento de Informática e Estatística (INE) da UFSC e coordenadora do Programa de Pós-Graduação em Ciência da Computação (PPGCC / UFSC) . Atua nas seguintes áreas de pesquisa: robótica móvel, internet tátil, sistemas distribuídos e de tempo real, com ênfase em previsão de perda de deadlines e tratamento de restrições na robótica móvel. Senior Visiting Professor at BISG - Biomimetics and Intelligent Systems Group, University of Oulu. CAPES/PRINT - Call no. 41/2017, Projeto de Cooperação Internacional: 88887.310834/2018-00 - UFSC - Automação, controle e sistemas computacionais para indústria e serviços 4.0 ORCID: https://orcid.org/0000-0001-8029-9468 Site: https://patriciaplentz.paginas.ufsc.br/"
   },
   {
-    "name": "Tarcísio Eduardo Moreira Crocomo",
-    "title": "Oficinas de Git e \"Explorando o protocolo HTTP com Python\"",
+    "name": "Rafael Neves de Mello Oliveira",
+    "title": "Título da apresentação a confirmar",
     "text": "",
-    "photo": "https://seccom-ufsc.github.io/2018/assets/fotos/cara-do-tarcisio.jpg",
-    "bio": ""
+    "photo": "https://user-images.githubusercontent.com/41487157/203611269-145c3484-f01e-470d-8b88-a179687952b3.jpeg",
+    "bio": "Rafael Oliveira é técnico em Eletroeletrônica pelo SENAI-SP com 2 anos de experiência trabalhando com inversores de frequência. Atualmente está cursando o bacharelado em Ciência da Computação pela Universidade Federal de Santa Catarina (UFSC). Desde 2018 é membro do Embedded Computing Laboratory (ECL) onde desenvolve pesquisas nas áreas de microeletrônica e nanotecnologias, com foco principal na mitigação dos efeitos da variabilidade e falhas transientes causadas por radiação em circuitos integrados. Em sua breve carreira acadêmica, já  possui  prêmios e publicações em eventos e revistas nacionais e internacionais. Além disso, é Projetista de Circuitos Integrados Digitais na Chipus Microelectronics atuando principalmente no desenvolvimento de Soft IPs para Power e Clock Management desde a etapa de RTL até o GDS."
+  },
+  {
+    "name": "Raul Sidnei Wazlawick",
+    "title": "Apresentação Laboratório Bridge",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/203614051-f7663d0a-518c-4ac4-9e3e-8c01ef97703a.png",
+    "bio": "Raul Sidnei Wazlawick. Professor Titular da UFSC em Engenharia de Software. Coordenador Geral do Laboratório Bridge. Bacharel e Mestre em Ciência da Computação e Doutor em Engenharia (1993). Vencedor do Prêmio Francisco Romeu Landi - Pesquisador Inovador no Setor Público (2021). Vencedor do Prêmio Luiz Fernando Gomes Soares – SBC (2022) e menção honrosa em 2021. Finalista do 59º Prêmio Jabuti (Excelência em Produção Literária Nacional) com o livro História da Computação (2017). Professor Honoris Causa pelo Centro de Instrução de Guerra Eletrônica do Exército Brasileiro (2013). Autor de cinco livros e mais de uma centena de artigos científicos. Ex coordenador do WG3.2 (higher education) da IFIP e ex conselheiro da Sociedade Brasileira de Computação."
+  },
+  {
+    "name": "Roberto Willrich",
+    "title": "Apresentação Laboratório LaPeSD",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/203617973-5e74cd77-8868-457d-ae4a-720a4dd2c4e3.gif",
+    "bio": "Roberto Willrich possui graduação em Engenharia Elétrica pela Universidade Federal de Santa Catarina (1987), mestrado em Engenharia Elétrica pela Universidade Federal de Santa Catarina (1991) e doutorado em Informática - Universite de Toulouse III/França (Paul Sabatier) (1996). Atualmente é professor titular da Universidade Federal de Santa Catarina. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Recomendação, Ontologias e Repositórios digitais."
+  },
+  {
+    "name": "Weslley da Costa Silva",
+    "title": "Minicurso Docker",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/203614792-322cb2d0-3005-4cf0-892f-7b25c3f288f3.jpeg",
+    "bio": "Weslley da Costa Silva é Graduando em Ciência da Computação pela UFSC e técnico de Redes, trabalha na área de infraestrutura e datacenter há mais de 10 anos, é fundador do canal Infra Antenada onde ensina desde redes até infraestrutura como código (IaaS)."
   }
 ]

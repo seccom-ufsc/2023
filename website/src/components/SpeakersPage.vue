@@ -2,13 +2,13 @@
   <v-container id="speakers-page" style="min-height: 100vh">
     <div class="text-h2 my-15 text-center">Convidados</div>
     <v-row class="d-flex justify-center align-start">
-      <v-row class="flex-grow-0 text-h5 roboto-mono">Em breve...</v-row>
-      <!-- <SpeakerCard class="ma-4" v-for="(speaker, index) in speakers" :key="index" :speaker="speaker"/> -->
+      <!-- <v-row class="flex-grow-0 text-h5 roboto-mono">Em breve...</v-row> -->
+      <SpeakerCard class="ma-4" v-for="(speaker, index) in speakers" :key="index" :speaker="speaker"/>
     </v-row>
   </v-container>
 </template>
 
-<!-- <script>
+<script>
 import SpeakerCard from './SpeakerCard'
 import speakers from './../config/speakers.json'
 
@@ -26,7 +26,7 @@ export default {
   }
 }
 </script>
--->
+
 <style lang='scss'>
   .blue-text-must-click {
     color: #474793;
