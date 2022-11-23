@@ -1,68 +1,158 @@
 [
   {
     "name": "Abertura",
-    "start": "2021-12-06T15:30:00",
-    "end": "2021-12-06T16:00:00",
+    "start": "2022-11-29T13:00:00",
+    "end": "2022-11-29T13:30:00",
     "details": ""
   },
   {
-    "name": "Oficina: Python para Iniciantes",
-    "start": "2021-12-06T16:00:00",
-    "end": "2021-12-06T18:00:00",
+    "name": "Palestra: Energy- and Security-aware Operating Systems",
+    "start": "2022-11-29T13:30:00",
+    "end": "2022-11-29T14:00:00",
     "details": ""
   },
   {
-    "name": "Roda de Conversa: O Futuro das Universidades Publicas",
-    "start": "2021-12-07T13:30:00",
-    "end": "2021-12-07T15:30:00",
+    "name": "Palestra: Volatility in NVRAM-centric Operating Systems",
+    "start": "2022-11-29T14:00:00",
+    "end": "2022-11-29T14:30:00",
     "details": ""
   },
   {
-    "name": "Oficina: Python Numérico",
-    "start": "2021-12-07T16:30:00",
-    "end": "2021-12-07T18:30:00",
+    "name": "LabSEC",
+    "start": "2022-11-29T14:30:00",
+    "end": "2022-11-29T15:30:00",
     "details": ""
   },
   {
-    "name": "Criptografia Pós Quantica em Protocolos de Rede",
-    "start": "2021-12-08T14:30:00",
-    "end": "2021-12-08T15:20:00",
+    "name": "Coffee Break",
+    "start": "2022-11-29T15:30:00",
+    "end": "2022-11-29T16:00:00",    
     "details": ""
   },
   {
-    "name": "Video Coding",
-    "start": "2021-12-08T16:30:00",
-    "end": "2021-12-08T17:20:00",
+    "name": "Minicurso Otim. Comb",
+    "start": "2022-11-29T16:00:00",
+    "end": "2022-11-29T18:00:00",
+    "details": "Sala 314 do INE"
+  },
+  {
+    "name": "Minicurso Docker",
+    "start": "2022-11-29T16:00:00",
+    "end": "2022-11-29T18:00:00",
+    "details": "Sala 313 do INE"
+  },
+  {
+    "name": "Minicurso Python",
+    "start": "2022-11-29T18:30:00",
+    "end": "2022-11-29T20:30:00",
+    "details": "Sala 313 do INE"
+  },
+  {
+    "name": "Minicurso Linux",
+    "start": "2022-11-29T18:30:00",
+    "end": "2022-11-29T20:30:00",
+    "details": "Sala 314 do INE"
+  },
+  {
+    "name": "L3C",
+    "start": "2022-11-30T13:30:00",
+    "end": "2022-11-30T14:30:00",
     "details": ""
   },
   {
-    "name": "Oficina: Git",
-    "start": "2021-12-08T18:30:00",
-    "end": "2021-12-08T20:30:00",
+    "name": "Mini-oficina digital IC designer",
+    "start": "2022-11-30T14:30:00",
+    "end": "2022-11-30T15:00:00",
     "details": ""
   },
   {
-    "name": "Oficina: Apps CLI em Rust",
-    "start": "2021-12-09T14:00:00",
-    "end": "2021-12-09T16:00:00",
+    "name": "EQM Fernando Garcia",
+    "start": "2022-11-30T15:00:00",
+    "end": "2022-11-30T16:00:00",
     "details": ""
   },
   {
-    "name": "Oficina: Explorando o protocolo HTTP com Python",
-    "start": "2021-12-09T16:30:00",
-    "end": "2021-12-09T18:30:00",
+    "name": "Coffee Break",
+    "start": "2022-11-30T15:30:00",
+    "end": "2022-11-30T16:00:00",    
     "details": ""
   },
   {
-    "name": "Roda de Conversa: O papel dos Centros Acadêmicos e o Movimento Estudantil",
-    "start": "2021-12-10T13:30:00",
-    "end": "2021-12-10T15:30:00",
+    "name": "Minicurso Testes",
+    "start": "2022-11-30T16:00:00",
+    "end": "2022-11-30T18:00:00",
+    "details": "Sala 313 do INE"
+  },
+  {
+    "name": "Minicurso Django",
+    "start": "2022-11-30T16:00:00",
+    "end": "2022-11-30T18:00:00",
+    "details": "Sala 314 do INE"
+  },
+  {
+    "name": "Minicurso Linux",
+    "start": "2022-11-30T18:30:00",
+    "end": "2022-11-30T20:30:00",
+    "details": "Sala 314 do INE"
+  },
+  {
+    "name": "Minicurso Proxmox",
+    "start": "2022-11-30T18:30:00",
+    "end": "2022-11-30T20:30:00",
+    "details": "Sala 313 do INE"
+  },
+  {
+    "name": "Minicurso Testes",
+    "start": "2022-12-01T13:30:00",
+    "end": "2022-12-01T15:30:00",
+    "details": "Sala 313 do INE"
+  },
+  {
+    "name": "Minicurso Django",
+    "start": "2022-12-01T13:30:00",
+    "end": "2022-12-01T15:30:00",
+    "details": "Sala 314 do INE"
+  },
+  {
+    "name": "Coffee Break",
+    "start": "2022-12-01T15:30:00",
+    "end": "2022-12-01T16:00:00",    
+    "details": ""
+  },  
+  {
+    "name": "Minicurso Otim. Comb",
+    "start": "2022-12-01T16:00:00",
+    "end": "2022-12-01T18:00:00",
+    "details": "Sala 314 do INE"
+  },
+  {
+    "name": "Minicurso Docker",
+    "start": "2022-12-01T16:00:00",
+    "end": "2022-12-01T18:00:00",
+    "details": "Sala 313 do INE"
+  },
+  {
+    "name": "Minicurso Python",
+    "start": "2022-12-01T18:30:00",
+    "end": "2022-12-01T20:30:00",
+    "details": "Sala 313 do INE"
+  }, 
+  {
+    "name": "Minicurso Linux",
+    "start": "2022-12-01T18:30:00",
+    "end": "2022-12-01T20:30:00",
+    "details": "Sala 314 do INE"
+  },
+  {
+    "name": " EQM Alberto Soki",
+    "start": "2022-12-02T11:00:00",
+    "end": "2022-12-02T12:00:00",
     "details": ""
   },
   {
-    "name": "Check-in UFSC: Rastreamento de Covid",
-    "start": "2021-12-10T16:30:00",
-    "end": "2021-12-10T17:20:00",
+    "name": " EQM Luiz Moura",
+    "start": "2022-12-02T13:00:00",
+    "end": "2022-12-02T14:00:00",
     "details": ""
   }
 ]
