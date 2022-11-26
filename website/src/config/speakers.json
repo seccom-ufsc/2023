@@ -1,10 +1,31 @@
 [
   {
+    "name": "Antônio Augusto Fröhlich",
+    "title": "Painel: LISHA - Os Diversos Papéis da Computação na Construção de Veículos Autônomos",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204103924-12a0dc4c-0032-488a-b52e-57b3eca50c32.jpg",
+    "bio": "Antônio é Professor Titular da UFSC, onde coordena o Laboratório de Integração Software/Hardware (LISHA) desde 2001. Com doutorado. em Engenharia da Computação pela TU-Berlin, coordenou vários projetos de P&D em sistemas embarcados. Contribuições significativas desses projetos materializaram-se no Sistema Brasileiro de Televisão Digital e na tecnologia IoT para Distribuição de Energia, Cidades Inteligentes e Sistemas Autônomos. Ele é um membro sênior da ACM, IEEE e SBC."
+  },
+  {
+    "name": "Cainã Rinaldi Esteche",
+    "title": "Framework Django - Aplicações Web em Python",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204102815-8e3bd07e-b264-4a77-9844-e61d35fa1682.jpg",
+    "bio": "Cainã trabalha atualmente como CTO da Modatil, uma startup focada em sugestões inteligentes de moda para o varejo. Previamente trabalhou 4 anos no setor de tecnologia para a saúde, atuando desde estágio até head de tecnologia da startup Wellbe. Além disto, também foi o desenvolvedor do aplicativo Inventree, voltado para a área de Engenharia Florestal, em conjunto com a empresa IFlorestal. Academicamente, entrou na UFSC em 2018 em Ciências da Computação, curso que está concluindo, e atualmente é presidente do Centro Acadêmico Livre da Computação. Em sua vida é apaixonado por vôlei, xadrez e assistir séries. No momento vê Dr. House, e lista como indicação. \"Acredito na UFSC e na SECCOM como um ambiente de aprendizado, conexão e descobertas entre alunos, professores, laboratórios e empresas.\" - Cainã"
+  },
+  {
     "name": "Carlos Becker Westphall",
     "title": "Apresentação Laboratório LGR",
     "text": "",
     "photo": "https://user-images.githubusercontent.com/41487157/203612471-24016303-7905-42f0-b7a9-c490467a008a.jpg",
     "bio": "Carlos Becker Westphall é Professor Titular da Universidade Federal de Santa Catarina desde 1993, atuando como líder do Grupo de Redes e Gerência, fundador e supervisor do Laboratório de Redes e Gerência. Doutor em Informática, na especialidade de \"Gerência de Redes e Serviços\" pela Université de Toulose (Paul Sabatier), na França em 1991. Mestre em Ciência da Computação em 1988 e Engenheiro Eletricista em 1985, ambos pela UFRGS. É autor e/ou co-autor de mais de 470 publicações. Recebeu em 2011 o \"Awarded IARIA Fellow\". É (e foi) Membro do Editorial Board de mais de uma dezena periódicos. Atua (e atuou) como membro do comitê de organização e/ou de programa de centenas de conferências. Tem experiência na área de Ciência da Computação e Telecomunicações, com ênfase em Administração e Gerência de Redes e Serviços, atuando principalmente nos seguintes temas: segurança, computação autonômica, computação em nuvem e Internet das Coisas. Fundou a conferência LANOMS (Latin American Network Operations and Management Symposium). Também prestou serviços: para IEEE atuando no CNOM (Committe on Network Operation and Management); para IFIP atuando no \"WG6.6 - Management of Networks and Distributed Systems\"; para Elsevier como editor do COMNET (Computer Networks Journal); para Springer como editor sênior do JNSM (Journal of Network and Systems Management) e para o IARIA (International Academy, Research, and Industry Association) como Latin America - IARIA Liaison Board Chair."
+  },
+  {
+    "name": "Cristina Meinhardt",
+    "title": "Painel: ECL - Microeletrônica & IA",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204104340-47ce5487-0c05-4ab2-9256-7d72a0ede429.jpg",
+    "bio": "Professora na Universidade Federal de Santa Catarina - UFSC. Tem Doutorado e Mestrado em Ciência da Computação pelo PPGC - UFRGS, com ênfase em Microeletrônica. Ministra aulas para os cursos de Ciência da Computação, Engenharia Eletrônica e Sistemas de Informação. Docente do Programa de Pós- Graduação em Ciência da Computação - PPGCC/ UFSC. Membro Sênior da IEEE. Vice-coordenadora da Comissão Especial de Concepção de Circuitos e Sistemas Integrados - CECCI  da SBC. Diretora de Integração da SBMicro."
   },
   {
     "name": "Frank Augusto Siqueira",
@@ -14,12 +35,82 @@
     "bio": "Possui graduação (1993) e mestrado (1996) em Engenharia Elétrica pela Universidade Federal de Santa Catarina e doutorado em Ciência da Computação pelo Trinity College Dublin (1999). Desde 2002 é professor da Universidade Federal de Santa Catarina, ocupando atualmente a posição de professor titular. Foi coordenador do Programa de Pós-graduação em Ciência da Computação e do curso de graduação em Sistemas de Informação da UFSC. Foi também pesquisador associado da University of Sydney, Austrália (2000). Conduz pesquisas na área de Ciência da Computação, com ênfase em Sistemas Distribuídos, com enfoque nos seguintes temas: Web Services; Qualidade de Serviço; e Bancos de Dados Distribuídos."
   },
   {
+    "name": "Giovani Gracioli",
+    "title": "Painel: LISHA - Os Diversos Papéis da Computação na Construção de Veículos Autônomos",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204103877-6b3cc2a5-0092-4fb3-9897-00be941e0d2d.jpg",
+    "bio": "Giovani é professor adjunto da UFSC e pesquisador associado do LISHA desde 2007. Doutor em engenharia de automação e sistemas pela UFSC. Participou em vários projetos de I&D em áreas como IoT, sistemas embarcados seguros críticos e veículos autónomos. Seus interesses de pesquisa incluem software embarcado crítico e sistemas operacionais de tempo real."
+  },  
+  {
+    "name": "Guilherme Mertens de Andrade",
+    "title": "Painel: LISHA - Os Diversos Papéis da Computação na Construção de Veículos Autônomos",
+    "text": "Guilherme é Diretor de Automobilismo Autônomo da Ampera, da Universidade Federal de Santa Catarina.",
+    "photo": "https://user-images.githubusercontent.com/41487157/204103336-ce9203f3-c657-4261-91fd-b3d9d832735e.jpeg",
+    "bio": ""
+  },  
+  {
+    "name": "Ismael Seidel",
+    "title": "Painel: ECL - Microeletrônica & IA",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204104444-e9188d37-1534-4c6a-bae9-f1e822c0a42f.jpg",
+    "bio": "Professor na Universidade Federal de Santa Catarina - UFSC. Docente do Departamento de Informática e Estatística (INE) - UFSC. Tem Doutorado e Mestrado em Ciência da Computação pelo PPGCC - UFSC. Interesses de pesquisa: Processamento de sinais visuais e arquiteturas associadas, com baixo consumo energético. Foi pesquisador na área de processamento de sinais visuais na Samsung R&D Brazil (SRBR) entre 2019 e 2022. Participou de delegações brasileiras nos comitês ISO/IEC JTC1/SC29/WG1 (JPEG), WG7 (3DG) e WG11 (MPEG). Membro do comitê ABNT/CB-021/CE 021 000 029 \"Codificação de Áudio, Imagem, Multimídia e Hipermídia\"."
+  },
+  {
     "name": "Jean Carlo Rossa Hauck",
     "title": "Apresentação Laboratório GQS",
     "text": "",
     "photo": "https://user-images.githubusercontent.com/41487157/203618869-316c6203-00e7-41fe-a7a4-6ea5b68fce99.png",
     "bio": "Jean Hauck é doutor em Engenharia do Conhecimento, com a área de pesquisa em Engenharia de Software, mestre em Ciência da Computação pela Universidade Federal de Santa Catarina (UFSC) e graduado em Ciência da Computação pela Universidade do Vale do Itajaí (UNIVALI). Adquiriu experiência prática na indústria trabalhando em empresas brasileiras de software, iniciando na área de suporte ao usuário, passando por DBA, programador, analista de sistemas, arquiteto de software, gerente de projetos e diretor de P&D. Liderou projetos de desenvolvimento de software para grandes clientes, como: Santander, Banco do Brasil, HSBC, Oi e muitos outros. Com essa experiência adquirida, prestou consultorias e ministrou treinamentos nas áreas de Modelagem e Arquitetura de Software e de Melhoria de Processos de Software para grandes empresas, como: Samsung, WEG, Softplan e diversas outras. Em paralelo à sua atuação na indústria, foi também professor de Engenharia de Software na Universidade do Sul de Santa Catarina (UNISUL) e na UNIVALI. Ministrou ainda diversas disciplinas em cursos de Pós-Graduação em Engenharia de Software na Unisul, Univali, Uniplac, Uniasselvi, Sociesc, Uniarp, Unidavi, Estácio e Esucri. Foi pesquisador visitante no Regulated Software Research Centre - Dundalk Institute of Technology - Irlanda. Atualmente é professor do Departamento de Informática e Estatística da Universidade Federal de Santa Catarina, pesquisador do Grupo de Qualidade de Software, membro da Iniciativa Computação na Escola e professor permanente do Programa de Pós-Graduação em Ciência da Computação (PPGCC)."
   },
+  {
+    "name": "Jerusa Marchi",
+    "title": "Apresentação: LIAA",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204104797-288736ad-06e9-4535-9ee2-7dbb42451ee0.jpeg",
+    "bio": "Jerusa possui graduação em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (1998), mestrado em Engenharia Elétrica pela Universidade Federal de Santa Catarina (2001) e doutorado em Engenharia Elétrica pela Universidade Federal de Santa Catarina (2006) e em Informática pela Université Toulouse I - Toulouse - França (2006), realizado em co-tutela. É Professora Associada no Departamento de Informática e Estatística da Universidade Federal de Santa Catarina desde 2010. É coordenadora do Laboratório de Inteligência Artificial e Algoritmos desde 2019. Atua na área de Matemática da Computação, principalmente nos seguintes temas: inteligência artificial (lógica e representação do conhecimento, processos de mudança de crenças, sistemas cognitivos), teoria da computação (reduções e satisfação booleana) e computação quântica (modelos de máquinas quânticas)."
+  },  
+  {
+    "name": "João Paulo Taylor Ienczak Zanette",
+    "title": "Testes Unitários: Escreva Código Sem Se Odiar Amanhã",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204102990-053b64b5-e51b-44d1-9bfb-aa997d5cef36.jpeg",
+    "bio": "Recém-formado em Ciência da Computação pela UFSC, participou ativamente do PET-Computação, LabMetro, LabTATE, e organizando a SECCOM, sempre oferecendo minicursos e oficinas ao longo da graduação. Formado também no curso Técnico em Informática pela SATC em 2013, sempre buscando formas de escrever melhor seus códigos, explorando alternativas, técnicas, corretude, e brincando com as mais variadas aplicações, de Web a jogos de GBA em C++."
+  },
+  {
+    "name": "José Luis Conradi Hoffmann",
+    "title": "Painel: LISHA - Os Diversos Papéis da Computação na Construção de Veículos Autônomos",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204103525-d70aee5d-51a1-4490-a49b-97f2c186039f.jpg",
+    "bio": "José é aluno de doutorado da Universidade Federal de Santa Catarina (UFSC), onde é membro do Laboratório de Integração Software/Hardware (LISHA) desde 2018. Recebeu seu título de M.Sc. graduação em Ciência da Computação em 2021, pela UFSC, Brasil. Seus interesses de pesquisa incluem projeto orientado a dados de sistemas críticos, verificação de segurança, métodos formais, sistemas embarcados em tempo real, aprendizado de máquina, IoT e protocolos de segurança."
+  },
+  {
+    "name": "José Luís Güntzel",
+    "title": "Painel: ECL - Microeletrônica & IA",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204104519-d9ff4a54-d500-4ca1-aade-b50a414f2232.jpg",
+    "bio": "Professor Titular da Universidade Federal de Santa Catarina (UFSC). Docente do Departamento de Informática e Estatística (INE/CTC). Doutor e Mestre em Ciência da Computação pelo PPGCC (UFRGS), com período sanduíche no Laboratoire d'Informatique, Robotique et Micro-électronique de Montpellier (LIRMM), França. Docente do Programa de Pós-Graduação em Ciência da Computação (PPGCC), do qual foi o coordenador entre 2017 e 2019. Ministra aulas para os cursos de Ciências da Computação e Engenharia Eletrônica (tendo colaborado com a criação deste último, em 2009) Coordenador do Capítulo Brasileiro do IEEE CEDA (Council on Electronic Design Automation). Membro da ACM/SIGDA, SBMicro, SBC e membro Sênior do IEEE, CASS, CEDA e SPS."
+  },  
+  {
+    "name": "Leonardo Passig Horstmann",
+    "title": "Painel: LISHA - Os Diversos Papéis da Computação na Construção de Veículos Autônomos",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204103652-11b42a53-acc1-4b7a-b7bf-f032c8e7d46a.jpg",
+    "bio": "Leonardo é um Ph.D. candidato à Universidade Federal de Santa Catarina (UFSC), onde é membro do Laboratório de Integração Software/Hardware (LISHA) desde 2018. Recebeu M.Sc. Graduado em Ciência da Computação em 2021, pela UFSC, Brasil, e seus interesses de pesquisa incluem Safety-Critical Systems, Mixed-Criticality Systems, Autonomous Systems, Real-Time embarcados systems, multicore processors, Machine Learning, IoT, Misbehavior Detection, and security protocolos."
+  },
+  {
+    "name": "Luiz Cláudio Villar dos Santos",
+    "title": "Painel: ECL - Microeletrônica & IA",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204104563-5cbaa400-a24a-42a0-8339-69a8fa0f2c41.jpg",
+    "bio": "É Professor Titular da Universidade Federal de Santa Catarina, onde atua em dois Programas de Pós-Graduação: Ciência da Computação (PPGCC) e Engenharia de Automação e Sistemas (PPGEAS). Possui graduação em Engenharia Elétrica pela Universidade Federal do Paraná (1986), mestrado em Ciências da Computação pela Universidade Federal do Rio Grande do Sul (1990) e doutorado em Ciência da Computação pela Eindhoven University of Technology, Holanda (1998). Suas atividades de ensino e pesquisa têm ênfase em Arquitetura de Sistemas de Computação, atuando principalmente em: Arquitetura de Computadores, Algoritmos para Automação de Projeto Eletrônica (CAD/EDA) e Sistemas Embarcados. Costuma concentrar sua produção científica em eventos e periódicos da IEEE e ACM (DAC, DATE, ICCAD, ICCD, ISPD, etc) e periódicos (TCAD, TVLSI, TODAES)"
+  },
+  {
+    "name": "Mateus Grellert",
+    "title": "Painel: ECL - Microeletrônica & IA",
+    "text": "",
+    "photo": "https://user-images.githubusercontent.com/41487157/204104640-b0c36089-c3cd-40f5-8409-deb91296dff3.jpg",
+    "bio": "Professor na Universidade Federal de Santa Catarina (2020) - UFSC. Mestre (2014) e Doutor (2018) em Computação pela Universidade Federal do Rio Grande do Sul (UFRGS), com período sanduíche no KIT (Alemanha) e na Univ. de Coimbra (Portugal). Interesses de pesquisa: projeto de algoritmos e arquiteturas para aprendizado de máquina, compressão de imagem e vídeo e computação aproximada. Membro do comitê ABNT/CB-021/CE 021 000 029 \"Codificação de Áudio, Imagem, Multimídia e Hipermídia\". Membro da IEEE, IEEE CAS, IEEE CEDA e SBMICRO. Membro do comitê executivo do IEEE CASS - Chapter RS."
+  },   
   {
     "name": "Mauro Roisenberg",
     "title": "Apresentação Laboratório L3C",
@@ -50,7 +141,7 @@
   },
   {
     "name": "Rafael Neves de Mello Oliveira",
-    "title": "Mini-oficina Digital IC Designer",
+    "title": "Digital IC Design - A Computer Scientist Approach",
     "text": "",
     "photo": "https://user-images.githubusercontent.com/41487157/203611269-145c3484-f01e-470d-8b88-a179687952b3.jpeg",
     "bio": "Rafael Oliveira é técnico em Eletroeletrônica pelo SENAI-SP com 2 anos de experiência trabalhando com inversores de frequência. Atualmente está cursando o bacharelado em Ciência da Computação pela Universidade Federal de Santa Catarina (UFSC). Desde 2018 é membro do Embedded Computing Laboratory (ECL) onde desenvolve pesquisas nas áreas de microeletrônica e nanotecnologias, com foco principal na mitigação dos efeitos da variabilidade e falhas transientes causadas por radiação em circuitos integrados. Em sua breve carreira acadêmica, já  possui  prêmios e publicações em eventos e revistas nacionais e internacionais. Além disso, é Projetista de Circuitos Integrados Digitais na Chipus Microelectronics atuando principalmente no desenvolvimento de Soft IPs para Power e Clock Management desde a etapa de RTL até o GDS."
