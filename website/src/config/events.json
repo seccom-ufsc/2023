@@ -24,52 +24,52 @@
     "details": "<b>Local:</b> Auditório do INE (sala 105)"
   },
   {
-    "name": "Minicurso Otim. Comb",
+    "name": "Ajudando Um Caixeiro Viajante Artista",
     "start": "2022-11-29T16:00:00",
     "end": "2022-11-29T18:00:00",
-    "details": "<b>Local:</b> Sala 314 do INE"
+    "details": "<b>Local:</b> Sala 314 do INE<br><b>Descrição:</b><br>1. Conceitos introdutórios de Otimização Combinatória (o que é e pra que serve) <br>2. Métodos de solução exatos<br>3. Métodos de solução heurísticos. <br>3.1. Para a exploração/implementação dos métodos utilizaremos a linguagem Python, e a biblioteca Python-MIP. O planejamento é utilizar o ambiente do Jupyter Notebook fornecido pelo Google Collaboratory.<br>3.2. Como exemplo de aplicação resolveremos instâncias do Problema do Caixeiro Viajante com um viés 'artístico' como a deste link: https://www.math.uwaterloo.ca/tsp/data/ml/mona-lisa100K.gif<br><b>Palestrantes:</b> Pedro Belin Castellucci, Rafael de Santiago, Álvaro Franco"
   },
   {
-    "name": "LaPeSD",
+    "name": "Apresentação: LaPeSD",
     "start": "2022-11-29T16:00:00",
     "end": "2022-11-29T17:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)"
+    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> O Laboratório de Pesquisa em Sistemas Distribuídos (LaPeSD) é um laboratório de pesquisa com foco nas áreas de Computação Paralela, Distribuída e de Tempo Real. Atualmente, pesquisadores do LaPeSD atuam nos seguintes eixos principais de pesquisa: (i) arquiteturas distribuídas de software e hardware; (ii) computação de alto desempenho; (iii) confiabilidade e tolerância a falhas; e (iv) tratamento de grandes volumes de dados. O LaPeSD possui atualmente 7 professores pesquisadores, mais de 20 alunos de pós-graduação e mais de 10 alunos de graduação. Os pesquisadores do LaPeSD possuem ampla experiência de pesquisa em nível nacional e internacional, através de projetos e colaborações de intercâmbio. Nesta apresentação, apresentaremos os principais eixos de pesquisa do LaPeSD. Então, cada professor do LaPeSD fará uma breve apresentação sobre sua área de pesquisa e sobre um trabalho de pesquisa recente conduzido por ele. Ao final, os professores ficarão à disposição da platéia para tirar dúvidas e falar sobre as oportunidades de pesquisa atuais.<br><b>Palestrante:</b> Márcio Castro"
   },  
   {
-    "name": "Minicurso Docker",
+    "name": "Docker do básico ao Cluster Swarm com NFS",
     "start": "2022-11-29T16:00:00",
     "end": "2022-11-29T18:00:00",
-    "details": "<b>Local:</b> Sala 313 do INE"
+    "details": "<b>Local:</b> Sala 313 do INE<br><b>Descrição:</b> Nesse mini-curso, será ensinado o que é docker, como funcionam containers, como criar imagens docker, configurar um cluster com Docker Swarm, configurar o Traefik como loadbalance/proxy com o Swarm, configurar um servidor com serviço de NFS para o cluster Docker e fazer o deploy de aplicações.<br><b>Palestrante:</b> Weslley da Costa Silva"
   },
   {
-    "name": "ECL",
+    "name": "Painel: ECL - Microeletrônica & IA",
     "start": "2022-11-29T17:00:00",
     "end": "2022-11-29T18:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)"
+    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Tendências de microeletrônica, aplicações de inteligência artificial e projeto de hardware dedicado para inteligência artificial.<br><b>Palestrante:</b> José Luís Güntzel"
   },  
   {
-    "name": "Minicurso Python",
+    "name": "Minicurso de Python para Iniciantes",
     "start": "2022-11-29T18:30:00",
     "end": "2022-11-29T20:30:00",
-    "details": "<b>Local:</b> Sala 313 do INE"
+    "details": "<b>Local:</b> Sala 313 do INE<br><b>Descrição:</b><br>O que é Python?<br>Linguagem interpretada X linguagem compilada<br>Ambiente de desenvolvimento para Python<br>Hello World!<br>Comentários, Operadores de atribuição e concatenação<br>Estrutura de Decisão – IF Else<br>Laço For, Listas, Funções, Exceções<br>Vamos fazer uma simulação de um sistema em python para Pizzaria com Cardápio, delivery e promoções.<br>https://www.slideshare.net/marioaxavier7/minicurso-de-python-para-iniciantes-193309592<br><b>Palestrante:</b> Mario Araujo Xavier"
   },
   {
-    "name": "Minicurso Linux",
+    "name": "Introdução a Linux",
     "start": "2022-11-29T18:30:00",
     "end": "2022-11-29T20:30:00",
-    "details": "<b>Local:</b> Sala 314 do INE"
+    "details": "<b>Local:</b> Sala 314 do INE<br><b>Descrição:</b> Breve introdução a linux, explicando o básico do funcionamento do sistema operacional, e como utiliza-lo corretamente.<br>1. Introdução a linux e instalação<br>2. Básico da linha de comando<br>3. Como sair do Vim<br>4. Ferramentas auxiliares para produtividade<br>5. Campeonato de customização<br><b>Palestrantes:</b> João Pedro Camargo, Tiago Oliveira da Luz, André William Régis, Leonardo Costa Steffani, Lucas Cardoso Soares, Hans Buss, Erik Orsolin."
   },
   {
-    "name": "L3C",
+    "name": "Apresentação: L3C",
     "start": "2022-11-30T13:30:00",
     "end": "2022-11-30T14:30:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)"
+    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Apresentação do Laboratório e Projetos já desenvolvidos e em desenvolvimento.<br><b>Palestrante:</b> Mauro Roisenberg"
   },
   {
-    "name": "Mini-oficina Digital IC Designer",
+    "name": "Digital IC Design - A Computer Scientist Approach",
     "start": "2022-11-30T14:30:00",
     "end": "2022-11-30T15:30:00",
-    "details": ""
+    "details": "<b>Local:</b> <br><b>Descrição:</b><br><b>Palestrante:</b> Rafael Neves de Mello Oliveira"
   },
   {
     "name": "EQM Fernando Garcia (online)",
@@ -78,100 +78,100 @@
     "details": ""
   },
   {
-    "name": "Minicurso Testes",
+    "name": "Testes Unitários: Escreva Código Sem Se Odiar Amanhã",
     "start": "2022-11-30T16:00:00",
     "end": "2022-11-30T18:00:00",
-    "details": "<b>Local:</b> Sala 313 do INE"
+    "details": "<b>Local:</b> Sala 313 do INE<br><b>Descrição:</b> Testes unitários são uma ferramenta garantir, dentro do possível, que seu código está correto - ou seja, faz aquilo que você esperaria - e salvo exceções são necessários em qualquer código com pelo menos uma função/classe/método/etc. Este minicurso apresentará como criar uma infraestrutura de testes unitários em um código Python já existente utilizando a biblioteca Pytest bem como algumas extensões (como Pytest-Mock) e conceitos comuns a testes, como Fixtures e Mocks.<br><b>Palestrante:</b> João Paulo Tiz"
   },
   {
-    "name": "Minicurso Django",
+    "name": "Framework Django - Aplicações web em python",
     "start": "2022-11-30T16:00:00",
     "end": "2022-11-30T18:00:00",
-    "details": "<b>Local:</b> Sala 314 do INE"
+    "details": "<b>Local:</b> Sala 314 do INE<br><b>Descrição:</b><br><b>Palestrante:</b> Cainã Rinaldi Esteche"
   },
   {
-    "name": "LISHA",
+    "name": "Painel: LISHA - Os Diversos Papéis da Computação na Construção de Veículos Autônomos",
     "start": "2022-11-30T16:00:00",
     "end": "2022-11-30T17:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)"
+    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Breve apresentação do LISHA, incluindo histórico, metodologia de trabalho e missão, seguido por um breve resumo sobre as pesquisas correntes em veículos autônomos. Participarão do Painel os professores do LISHA e, caso o mesmo seja aprovado, convidaremos também a AMPERA.<br><b>Palestrante:</b> Antônio Augusto Medeiros Fröhlich"
   },  
   {
-    "name": "LIAA",
+    "name": "Apresentação: LIAA",
     "start": "2022-11-30T17:00:00",
     "end": "2022-11-30T18:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)"
+    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Pretende-se apresentar o Laboratório e seus grupos de pesquisa, seus projetos de pesquisa e extensão, apresentado os professores e seus temas de pesquisa e oportunidades de engajamento.<br><b>Palestrante:</b> Jerusa Marchi"
   },  
   {
-    "name": "Minicurso Linux",
+    "name": "Introdução a Linux",
     "start": "2022-11-30T18:30:00",
     "end": "2022-11-30T20:30:00",
-    "details": "<b>Local:</b> Sala 314 do INE"
+    "details": "<b>Local:</b> Sala 314 do INE<br><b>Descrição:</b> Breve introdução a linux, explicando o básico do funcionamento do sistema operacional, e como utiliza-lo corretamente.<br>1. Introdução a linux e instalação<br>2. Básico da linha de comando<br>3. Como sair do Vim<br>4. Ferramentas auxiliares para produtividade<br>5. Campeonato de customização<br><b>Palestrantes:</b> João Pedro Camargo, Tiago Oliveira da Luz, André William Régis, Leonardo Costa Steffani, Lucas Cardoso Soares, Hans Buss, Erik Orsolin."
   },
   {
-    "name": "Minicurso Proxmox",
+    "name": "Oficina de Proxmox para Iniciantes",
     "start": "2022-11-30T18:30:00",
     "end": "2022-11-30T20:30:00",
-    "details": "<b>Local:</b> Sala 313 do INE"
+    "details": "<b>Local:</b> Sala 313 do INE<br><b>Descrição:</b><br>1 - O que é o Proxmox?<br>2 - Quem usa o Proxmox<br>3 - Vantagens da Virtualização: Subindo o Proxmox no Virtualbox<br>4 - Configurando IP, máscara e DNS no proxmox<br>5 - Subindo Windows Server 2019 e 2012 no Proxmox<br>6 - Subindo Ubuntu Server e Debian no Proxmox<br>https://www.slideshare.net/marioaxavier7/oficina-de-proxmox-para-iniciantes<br><b>Palestrante:</b> Mario Araujo Xavier"
   },
   {
-    "name": "LISA",
+    "name": "Apresentação: LISA",
     "start": "2022-11-30T18:30:00",
     "end": "2022-11-30T19:30:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)"
+    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> As pesquisas do LISA envolvem enriquecimento, análise, extração de informação e de conhecimento de dados complexos potencialmente em grandes volumes, tais como dados semi-estruturados e textuais incluindo os de mídias sociais, dados espaciais e temporais como trajetórias de objetos móveis e dados multimídia. Esta palestra, que também permitirá debate no final, apresentará uma visão geral dos principais temas dos projetos desenvolvidos no LISA: ciência de dados, aprendizado de máquina, big data, engenharia de dados e tratamento da semântica dos dados, usando artefatos como grafos de conhecimento, embeddings e redes neurais profundas, entre outros.<br><b>Palestrante:</b> Renato Fileto"
   },  
   {
-    "name": "Minicurso Testes",
+    "name": "Testes Unitários: Escreva código sem se odiar amanhã",
     "start": "2022-12-01T13:30:00",
     "end": "2022-12-01T15:30:00",
-    "details": "<b>Local:</b> Sala 313 do INE"
+    "details": "<b>Local:</b> Sala 313 do INE<br><b>Descrição:</b> Testes unitários são uma ferramenta garantir, dentro do possível, que seu código está correto - ou seja, faz aquilo que você esperaria - e salvo exceções são necessários em qualquer código com pelo menos uma função/classe/método/etc. Este minicurso apresentará como criar uma infraestrutura de testes unitários em um código Python já existente utilizando a biblioteca Pytest bem como algumas extensões (como Pytest-Mock) e conceitos comuns a testes, como Fixtures e Mocks.<br><b>Palestrante:</b> João Paulo Tiz"
   },
   {
-    "name": "Minicurso Django",
+    "name": "Framework Django - Aplicações web em python",
     "start": "2022-12-01T13:30:00",
     "end": "2022-12-01T15:30:00",
-    "details": "<b>Local:</b> Sala 314 do INE"
+    "details": "<b>Local:</b> Sala 314 do INE<br><b>Descrição:</b><br><b>Palestrante:</b> Cainã Rinaldi Esteche"
   },
   {
-    "name": "Bridge",
+    "name": "Apresentação: Bridge",
     "start": "2022-12-01T13:30:00",
     "end": "2022-12-01T14:30:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)"
+    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Nesta palestra apresentamos um case de sucesso em engenharia de software, o Laboratório Bridge da UFSC, vencedor do Prêmio Labutantes - Melhor Laboratório de Inovação da Região Sul, 2021, e responsável por vários projetos de informatização do Ministério da Saúde desde 2013. Em especial, apresentaremos algumas das práticas de desenvolvimento ágil que permitiram que essa equipe de mais de 170 pessoas esteja criando produtos fabulosos para a gestão da saúde publica no Brasil, impactando mais de 650 mil usuários e 150 milhões de habitantes. (www.bridge.ufsc.br)<br><b>Palestrante:</b> Raul Sidnei Wazlawick"
   },  
   {
-    "name": "Minicurso Otim. Comb",
+    "name": "Ajudando um caixeiro viajante artista",
     "start": "2022-12-01T16:00:00",
     "end": "2022-12-01T18:00:00",
-    "details": "<b>Local:</b> Sala 314 do INE"
+    "details": "<b>Local:</b> Sala 314 do INE<br><b>Descrição:</b><br>1. Conceitos introdutórios de Otimização Combinatória (o que é e pra que serve) <br>2. Métodos de solução exatos<br>3. Métodos de solução heurísticos. <br>3.1. Para a exploração/implementação dos métodos utilizaremos a linguagem Python, e a biblioteca Python-MIP. O planejamento é utilizar o ambiente do Jupyter Notebook fornecido pelo Google Collaboratory.<br>3.2. Como exemplo de aplicação resolveremos instâncias do Problema do Caixeiro Viajante com um viés 'artístico' como a deste link: https://www.math.uwaterloo.ca/tsp/data/ml/mona-lisa100K.gif<br><b>Palestrantes:</b> Pedro Belin Castellucci, Rafael de Santiago, Álvaro Franco"
   },
   {
-    "name": "Minicurso Docker",
+    "name": "Docker do básico ao Cluster Swarm com NFS",
     "start": "2022-12-01T16:00:00",
     "end": "2022-12-01T18:00:00",
-    "details": "<b>Local:</b> Sala 313 do INE"
+    "details": "<b>Local:</b> Sala 313 do INE<br><b>Descrição:</b> Nesse mini-curso, será ensinado o que é docker, como funcionam containers, como criar imagens docker, configurar um cluster com Docker Swarm, configurar o Traefik como loadbalance/proxy com o Swarm, configurar um servidor com serviço de NFS para o cluster Docker e fazer o deploy de aplicações.<br><b>Palestrante:</b> Weslley da Costa Silva"
   },
   {
-    "name": "GQS",
+    "name": "Apresentação: GQS",
     "start": "2022-12-01T16:00:00",
     "end": "2022-12-01T17:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)"
+    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição: </b><br>Apresentação do grupo de pesquisa e seus coordenadores<br>Apresentação das áreas de pesquisa do GQS<br>Apresentação das pesquisas em andamento<br><b>Palestrante: </b> Jean Hauck"
   },
   {
-    "name": "LRG",
+    "name": "Apresentação: LRG",
     "start": "2022-12-01T17:00:00",
     "end": "2022-12-01T18:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)"
+    "details": "<b>Local:</b> Auditório do INE (sala 105) <br><b>Descrição:</b> O Laboratório de Redes e Gerência desenvolve pesquisas nas áreas de: 'Autenticação em IoT' para dispositivos restritos em fog computing que utiliza multi-fator e um sistema de reputação para os sensores autenticados 'Detecção e prevenção de intrusão em ambientes IoT', considerando uma abordagem híbrida e hierárquica baseada em computação em nevoeiro e em nuvem e “Sistema inteligente autônomo” que realiza o gerenciamento de energia de subsistemas e dispositivos IoT com a utilização de Fog Computing. Estas pesquisas estão sendo realizadas no escopo do Projeto fomentado pelo CNPq: AMDIGA em IoT/Fog/Cloud – Autenticação Mútua, Detecção de Intrusão e Gerência Autonômica em Ambientes IoT/Fog/Cloud (MAIDAM in IoT/Fog/Cloud – Mutual Authentication, Intrusion Detection and Autonomic Management in IoT/Fog/Cloud Environments). <br><b>Palestrante:</b> Carlos Becker Westphall"
   },    
   {
-    "name": "Minicurso Python",
+    "name": "Minicurso de Python para Iniciantes",
     "start": "2022-12-01T18:30:00",
     "end": "2022-12-01T20:30:00",
-    "details": "<b>Local:</b> Sala 313 do INE"
-  }, 
+    "details": "<b>Local:</b> Sala 313 do INE<br><b>Descrição:</b><br>O que é Python?<br>Linguagem interpretada X linguagem compilada<br>Ambiente de desenvolvimento para Python<br>Hello World!<br>Comentários, Operadores de atribuição e concatenação<br>Estrutura de Decisão – IF Else<br>Laço For, Listas, Funções, Exceções<br>Vamos fazer uma simulação de um sistema em python para Pizzaria com Cardápio, delivery e promoções.<br>https://www.slideshare.net/marioaxavier7/minicurso-de-python-para-iniciantes-193309592<br><b>Palestrante:</b> Mario Araujo Xavier"
+  },  
   {
-    "name": "Minicurso Linux",
+    "name": "Introdução a Linux",
     "start": "2022-12-01T18:30:00",
     "end": "2022-12-01T20:30:00",
-    "details": "<b>Local:</b> Sala 314 do INE"
+    "details": "<b>Local:</b> Sala 314 do INE<br><b>Descrição:</b> Breve introdução a linux, explicando o básico do funcionamento do sistema operacional, e como utiliza-lo corretamente.<br>1. Introdução a linux e instalação<br>2. Básico da linha de comando<br>3. Como sair do Vim<br>4. Ferramentas auxiliares para produtividade<br>5. Campeonato de customização<br><b>Palestrantes:</b> João Pedro Camargo, Tiago Oliveira da Luz, André William Régis, Leonardo Costa Steffani, Lucas Cardoso Soares, Hans Buss, Erik Orsolin."
   },
   {
     "name": " EQM Alberto Soki (online)",
