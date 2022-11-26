@@ -18,10 +18,10 @@
     "details": "<b>Local:</b> Auditório do INE (sala 105)"
   },
   {
-    "name": "LabSEC",
+    "name": "Apresentação: LabSEC",
     "start": "2022-11-29T14:30:00",
     "end": "2022-11-29T15:30:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)"
+    "details": "<b>Laboratório de Segurança em Computação (LabSEC)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b><br><b>Palestrante:</b>"
   },
   {
     "name": "Ajudando Um Caixeiro Viajante Artista",
@@ -33,7 +33,7 @@
     "name": "Apresentação: LaPeSD",
     "start": "2022-11-29T16:00:00",
     "end": "2022-11-29T17:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> O Laboratório de Pesquisa em Sistemas Distribuídos (LaPeSD) é um laboratório de pesquisa com foco nas áreas de Computação Paralela, Distribuída e de Tempo Real. Atualmente, pesquisadores do LaPeSD atuam nos seguintes eixos principais de pesquisa: (i) arquiteturas distribuídas de software e hardware; (ii) computação de alto desempenho; (iii) confiabilidade e tolerância a falhas; e (iv) tratamento de grandes volumes de dados. O LaPeSD possui atualmente 7 professores pesquisadores, mais de 20 alunos de pós-graduação e mais de 10 alunos de graduação. Os pesquisadores do LaPeSD possuem ampla experiência de pesquisa em nível nacional e internacional, através de projetos e colaborações de intercâmbio. Nesta apresentação, apresentaremos os principais eixos de pesquisa do LaPeSD. Então, cada professor do LaPeSD fará uma breve apresentação sobre sua área de pesquisa e sobre um trabalho de pesquisa recente conduzido por ele. Ao final, os professores ficarão à disposição da platéia para tirar dúvidas e falar sobre as oportunidades de pesquisa atuais.<br><b>Palestrante:</b> Márcio Castro"
+    "details": "<b>Laboratório de Pesquisa em Sistemas Distribuídos (LaPeSD)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> O Laboratório de Pesquisa em Sistemas Distribuídos (LaPeSD) é um laboratório de pesquisa com foco nas áreas de Computação Paralela, Distribuída e de Tempo Real. Atualmente, pesquisadores do LaPeSD atuam nos seguintes eixos principais de pesquisa: (i) arquiteturas distribuídas de software e hardware; (ii) computação de alto desempenho; (iii) confiabilidade e tolerância a falhas; e (iv) tratamento de grandes volumes de dados. O LaPeSD possui atualmente 7 professores pesquisadores, mais de 20 alunos de pós-graduação e mais de 10 alunos de graduação. Os pesquisadores do LaPeSD possuem ampla experiência de pesquisa em nível nacional e internacional, através de projetos e colaborações de intercâmbio. Nesta apresentação, apresentaremos os principais eixos de pesquisa do LaPeSD. Então, cada professor do LaPeSD fará uma breve apresentação sobre sua área de pesquisa e sobre um trabalho de pesquisa recente conduzido por ele. Ao final, os professores ficarão à disposição da platéia para tirar dúvidas e falar sobre as oportunidades de pesquisa atuais.<br><b>Palestrante:</b> Márcio Castro"
   },  
   {
     "name": "Docker do básico ao Cluster Swarm com NFS",
@@ -45,7 +45,7 @@
     "name": "Painel: ECL - Microeletrônica & IA",
     "start": "2022-11-29T17:00:00",
     "end": "2022-11-29T18:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Tendências de microeletrônica, aplicações de inteligência artificial e projeto de hardware dedicado para inteligência artificial.<br><b>Palestrante:</b> José Luís Güntzel"
+    "details": "<b>Laboratório de Computação Embarcada (ECL)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Tendências de microeletrônica, aplicações de inteligência artificial e projeto de hardware dedicado para inteligência artificial.<br><b>Palestrante:</b> José Luís Güntzel"
   },  
   {
     "name": "Minicurso de Python para Iniciantes",
@@ -63,7 +63,7 @@
     "name": "Apresentação: L3C",
     "start": "2022-11-30T13:30:00",
     "end": "2022-11-30T14:30:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Apresentação do Laboratório e Projetos já desenvolvidos e em desenvolvimento.<br><b>Palestrante:</b> Mauro Roisenberg"
+    "details": "<b>Connectionism and Cognitive Science Lab (L3C)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Apresentação do Laboratório e Projetos já desenvolvidos e em desenvolvimento.<br><b>Palestrante:</b> Mauro Roisenberg"
   },
   {
     "name": "Digital IC Design - A Computer Scientist Approach",
@@ -93,13 +93,13 @@
     "name": "Painel: LISHA - Os Diversos Papéis da Computação na Construção de Veículos Autônomos",
     "start": "2022-11-30T16:00:00",
     "end": "2022-11-30T17:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Breve apresentação do LISHA, incluindo histórico, metodologia de trabalho e missão, seguido por um breve resumo sobre as pesquisas correntes em veículos autônomos. Participarão do Painel os professores do LISHA e, caso o mesmo seja aprovado, convidaremos também a AMPERA.<br><b>Palestrante:</b> Antônio Augusto Medeiros Fröhlich"
+    "details": "<b>Laboratório de Integração de Software/Hardware (LISHA)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Breve apresentação do LISHA, incluindo histórico, metodologia de trabalho e missão, seguido por um breve resumo sobre as pesquisas correntes em veículos autônomos. Participarão do Painel os professores do LISHA e, caso o mesmo seja aprovado, convidaremos também a AMPERA.<br><b>Palestrante:</b> Antônio Augusto Medeiros Fröhlich"
   },  
   {
     "name": "Apresentação: LIAA",
     "start": "2022-11-30T17:00:00",
     "end": "2022-11-30T18:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Pretende-se apresentar o Laboratório e seus grupos de pesquisa, seus projetos de pesquisa e extensão, apresentado os professores e seus temas de pesquisa e oportunidades de engajamento.<br><b>Palestrante:</b> Jerusa Marchi"
+    "details": "<b>Laboratório de Inteligência Artificial e Algoritmos (LIAA)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Pretende-se apresentar o Laboratório e seus grupos de pesquisa, seus projetos de pesquisa e extensão, apresentado os professores e seus temas de pesquisa e oportunidades de engajamento.<br><b>Palestrante:</b> Jerusa Marchi"
   },  
   {
     "name": "Introdução a Linux",
@@ -117,7 +117,7 @@
     "name": "Apresentação: LISA",
     "start": "2022-11-30T18:30:00",
     "end": "2022-11-30T19:30:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> As pesquisas do LISA envolvem enriquecimento, análise, extração de informação e de conhecimento de dados complexos potencialmente em grandes volumes, tais como dados semi-estruturados e textuais incluindo os de mídias sociais, dados espaciais e temporais como trajetórias de objetos móveis e dados multimídia. Esta palestra, que também permitirá debate no final, apresentará uma visão geral dos principais temas dos projetos desenvolvidos no LISA: ciência de dados, aprendizado de máquina, big data, engenharia de dados e tratamento da semântica dos dados, usando artefatos como grafos de conhecimento, embeddings e redes neurais profundas, entre outros.<br><b>Palestrante:</b> Renato Fileto"
+    "details": "<b>Laboratório de Integração de Sistemas e Aplicações (LISA)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> As pesquisas do LISA envolvem enriquecimento, análise, extração de informação e de conhecimento de dados complexos potencialmente em grandes volumes, tais como dados semi-estruturados e textuais incluindo os de mídias sociais, dados espaciais e temporais como trajetórias de objetos móveis e dados multimídia. Esta palestra, que também permitirá debate no final, apresentará uma visão geral dos principais temas dos projetos desenvolvidos no LISA: ciência de dados, aprendizado de máquina, big data, engenharia de dados e tratamento da semântica dos dados, usando artefatos como grafos de conhecimento, embeddings e redes neurais profundas, entre outros.<br><b>Palestrante:</b> Renato Fileto"
   },  
   {
     "name": "Testes Unitários: Escreva código sem se odiar amanhã",
@@ -135,7 +135,7 @@
     "name": "Apresentação: Bridge",
     "start": "2022-12-01T13:30:00",
     "end": "2022-12-01T14:30:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Nesta palestra apresentamos um case de sucesso em engenharia de software, o Laboratório Bridge da UFSC, vencedor do Prêmio Labutantes - Melhor Laboratório de Inovação da Região Sul, 2021, e responsável por vários projetos de informatização do Ministério da Saúde desde 2013. Em especial, apresentaremos algumas das práticas de desenvolvimento ágil que permitiram que essa equipe de mais de 170 pessoas esteja criando produtos fabulosos para a gestão da saúde publica no Brasil, impactando mais de 650 mil usuários e 150 milhões de habitantes. (www.bridge.ufsc.br)<br><b>Palestrante:</b> Raul Sidnei Wazlawick"
+    "details": "<b>Laboratório Bridge</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Nesta palestra apresentamos um case de sucesso em engenharia de software, o Laboratório Bridge da UFSC, vencedor do Prêmio Labutantes - Melhor Laboratório de Inovação da Região Sul, 2021, e responsável por vários projetos de informatização do Ministério da Saúde desde 2013. Em especial, apresentaremos algumas das práticas de desenvolvimento ágil que permitiram que essa equipe de mais de 170 pessoas esteja criando produtos fabulosos para a gestão da saúde publica no Brasil, impactando mais de 650 mil usuários e 150 milhões de habitantes. (www.bridge.ufsc.br)<br><b>Palestrante:</b> Raul Sidnei Wazlawick"
   },  
   {
     "name": "Ajudando um caixeiro viajante artista",
@@ -153,13 +153,13 @@
     "name": "Apresentação: GQS",
     "start": "2022-12-01T16:00:00",
     "end": "2022-12-01T17:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição: </b><br>Apresentação do grupo de pesquisa e seus coordenadores<br>Apresentação das áreas de pesquisa do GQS<br>Apresentação das pesquisas em andamento<br><b>Palestrante: </b> Jean Hauck"
+    "details": "<b>Grupo de Qualidade de Software (GQS)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Apresentação do grupo de pesquisa e seus coordenadores<br>Apresentação das áreas de pesquisa do GQS<br>Apresentação das pesquisas em andamento<br><b>Palestrante: </b> Jean Hauck"
   },
   {
     "name": "Apresentação: LRG",
     "start": "2022-12-01T17:00:00",
     "end": "2022-12-01T18:00:00",
-    "details": "<b>Local:</b> Auditório do INE (sala 105) <br><b>Descrição:</b> O Laboratório de Redes e Gerência desenvolve pesquisas nas áreas de: 'Autenticação em IoT' para dispositivos restritos em fog computing que utiliza multi-fator e um sistema de reputação para os sensores autenticados 'Detecção e prevenção de intrusão em ambientes IoT', considerando uma abordagem híbrida e hierárquica baseada em computação em nevoeiro e em nuvem e “Sistema inteligente autônomo” que realiza o gerenciamento de energia de subsistemas e dispositivos IoT com a utilização de Fog Computing. Estas pesquisas estão sendo realizadas no escopo do Projeto fomentado pelo CNPq: AMDIGA em IoT/Fog/Cloud – Autenticação Mútua, Detecção de Intrusão e Gerência Autonômica em Ambientes IoT/Fog/Cloud (MAIDAM in IoT/Fog/Cloud – Mutual Authentication, Intrusion Detection and Autonomic Management in IoT/Fog/Cloud Environments). <br><b>Palestrante:</b> Carlos Becker Westphall"
+    "details": "<b>Laboratório de Redes e Gerência (LRG)</b><br><b>Local:</b> Auditório do INE (sala 105) <br><b>Descrição:</b> O Laboratório de Redes e Gerência desenvolve pesquisas nas áreas de: \"Autenticação em IoT\" para dispositivos restritos em fog computing que utiliza multi-fator e um sistema de reputação para os sensores autenticados \"Detecção e prevenção de intrusão em ambientes IoT\", considerando uma abordagem híbrida e hierárquica baseada em computação em nevoeiro e em nuvem e \"Sistema inteligente autônomo\" que realiza o gerenciamento de energia de subsistemas e dispositivos IoT com a utilização de Fog Computing. Estas pesquisas estão sendo realizadas no escopo do Projeto fomentado pelo CNPq: AMDIGA em IoT/Fog/Cloud – Autenticação Mútua, Detecção de Intrusão e Gerência Autonômica em Ambientes IoT/Fog/Cloud (MAIDAM in IoT/Fog/Cloud – Mutual Authentication, Intrusion Detection and Autonomic Management in IoT/Fog/Cloud Environments). <br><b>Palestrante:</b> Carlos Becker Westphall"
   },    
   {
     "name": "Minicurso de Python para Iniciantes",
