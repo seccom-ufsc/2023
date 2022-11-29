@@ -33,7 +33,7 @@
     "name": "Apresentação: LaPeSD",
     "start": "2022-11-29T16:00:00",
     "end": "2022-11-29T17:00:00",
-    "details": "<b>Laboratório de Pesquisa em Sistemas Distribuídos (LaPeSD)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> O Laboratório de Pesquisa em Sistemas Distribuídos (LaPeSD) é um laboratório de pesquisa com foco nas áreas de Computação Paralela, Distribuída e de Tempo Real. Atualmente, pesquisadores do LaPeSD atuam nos seguintes eixos principais de pesquisa: (i) arquiteturas distribuídas de software e hardware; (ii) computação de alto desempenho; (iii) confiabilidade e tolerância a falhas; e (iv) tratamento de grandes volumes de dados. O LaPeSD possui atualmente 7 professores pesquisadores, mais de 20 alunos de pós-graduação e mais de 10 alunos de graduação. Os pesquisadores do LaPeSD possuem ampla experiência de pesquisa em nível nacional e internacional, através de projetos e colaborações de intercâmbio. Nesta apresentação, apresentaremos os principais eixos de pesquisa do LaPeSD. Então, cada professor do LaPeSD fará uma breve apresentação sobre sua área de pesquisa e sobre um trabalho de pesquisa recente conduzido por ele. Ao final, os professores ficarão à disposição da platéia para tirar dúvidas e falar sobre as oportunidades de pesquisa atuais.<br><b>Palestrante:</b> Márcio Castro"
+    "details": "<b>Laboratório de Pesquisa em Sistemas Distribuídos (LaPeSD)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> O Laboratório de Pesquisa em Sistemas Distribuídos (LaPeSD) é um laboratório de pesquisa com foco nas áreas de Computação Paralela, Distribuída e de Tempo Real. Atualmente, pesquisadores do LaPeSD atuam nos seguintes eixos principais de pesquisa: (i) arquiteturas distribuídas de software e hardware; (ii) computação de alto desempenho; (iii) confiabilidade e tolerância a falhas; e (iv) tratamento de grandes volumes de dados. O LaPeSD possui atualmente 7 professores pesquisadores, mais de 20 alunos de pós-graduação e mais de 10 alunos de graduação. Os pesquisadores do LaPeSD possuem ampla experiência de pesquisa em nível nacional e internacional, através de projetos e colaborações de intercâmbio. Nesta apresentação, apresentaremos os principais eixos de pesquisa do LaPeSD. Então, cada professor do LaPeSD fará uma breve apresentação sobre sua área de pesquisa e sobre um trabalho de pesquisa recente conduzido por ele. Ao final, os professores ficarão à disposição da platéia para tirar dúvidas e falar sobre as oportunidades de pesquisa atuais.<br><b>Palestrante:</b> Frank Augusto Siqueira, Márcio Castro, Odorico Machado Mendizabal, Patricia Della Méa Plentz e Roberto Willrich"
   },  
   {
     "name": "Docker do básico ao Cluster Swarm com NFS",
@@ -45,7 +45,7 @@
     "name": "Painel: ECL - Microeletrônica & IA",
     "start": "2022-11-29T17:00:00",
     "end": "2022-11-29T18:00:00",
-    "details": "<b>Laboratório de Computação Embarcada (ECL)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Tendências de microeletrônica, aplicações de inteligência artificial e projeto de hardware dedicado para inteligência artificial.<br><b>Palestrante:</b> José Luís Güntzel"
+    "details": "<b>Laboratório de Computação Embarcada (ECL)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Tendências de microeletrônica, aplicações de inteligência artificial e projeto de hardware dedicado para inteligência artificial.<br><b>Palestrante:</b> Cristina Meinhardt, Ismael Seidel, José Luís Güntzel, Luiz Cláudio Villar dos Santos e Mateus Grellert"
   },  
   {
     "name": "Minicurso de Python para Iniciantes",
@@ -93,7 +93,7 @@
     "name": "Painel: LISHA - Os Diversos Papéis da Computação na Construção de Veículos Autônomos",
     "start": "2022-11-30T16:00:00",
     "end": "2022-11-30T17:00:00",
-    "details": "<b>Laboratório de Integração de Software/Hardware (LISHA)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Breve apresentação do LISHA, incluindo histórico, metodologia de trabalho e missão, seguido por um breve resumo sobre as pesquisas correntes em veículos autônomos. Participarão do Painel os professores do LISHA e, caso o mesmo seja aprovado, convidaremos também a AMPERA.<br><b>Palestrante:</b> Antônio Augusto Medeiros Fröhlich"
+    "details": "<b>Laboratório de Integração de Software/Hardware (LISHA)</b><br><b>Local:</b> Auditório do INE (sala 105)<br><b>Descrição:</b> Breve apresentação do LISHA, incluindo histórico, metodologia de trabalho e missão, seguido por um breve resumo sobre as pesquisas correntes em veículos autônomos. Participarão do Painel os professores do LISHA e, caso o mesmo seja aprovado, convidaremos também a AMPERA.<br><b>Palestrante:</b> Antônio Augusto Medeiros Fröhlich, Giovani Gracioli, Guilherme Mertens de Andrade, José Luis Conradi Hoffmann e Leonardo Passig Horstmann"
   },  
   {
     "name": "Apresentação: LIAA",
