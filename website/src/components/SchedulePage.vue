@@ -4,7 +4,7 @@
     <!-- <v-row class="d-flex justify-center align-start">
       <v-row class="flex-grow-0 text-h5 roboto-mono">Em breve...</v-row>
     </v-row> -->
-    <v-sheet :max-width="window.innerWidth">
+    <!-- <v-sheet :max-width="window.innerWidth">
       <v-calendar
         v-model="value"
         ref="calendar"
@@ -51,7 +51,7 @@
           </v-card-actions>
         </v-card>
       </v-menu>
-    </v-sheet>
+    </v-sheet> -->
   </v-container>
 </template>
 

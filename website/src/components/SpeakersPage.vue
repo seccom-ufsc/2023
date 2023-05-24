@@ -8,7 +8,7 @@
   </v-container>
 </template>
 
-<script>
+<!-- <script>
 import SpeakerCard from './SpeakerCard'
 import speakers from './../config/speakers.json'
 
@@ -26,6 +26,8 @@ export default {
   }
 }
 </script>
+
+-->
 
 <style lang='scss'>
   .blue-text-must-click {
