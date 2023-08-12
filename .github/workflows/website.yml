@@ -23,5 +23,5 @@ jobs:
         with:
           TOKEN: ${{ github.token }}
           BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: website/dist # The folder the action should deploy.
+          FOLDER: website # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
